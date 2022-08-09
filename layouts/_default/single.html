@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+
+<header>
+    <div class='artists'>{{ range.Params.artists}}<span>{{ . | title }}</span>{{ end }}</div>
+    <h1>{{ replace .File.BaseFileName "-" " " | title }}</h1>
+    {{ partial "taglist.html" . -}}
+</header>
+{{ .Content }}
+<table id='metadata'>
+    {{ with .Params.file_name }}<tr><th>File name</th><td><code>{{ . }}</code></td></tr>{{ end }}
+    {{ with .Params.file_title }}<tr><th>File title</th><td><code>{{ . }}</code></td></tr>{{ end }}
+    {{ with .Params.file_comment }}<tr><th>File comment</th><td><code>{{ . }}</code></td></tr>{{ end }}
+    {{ with .Params.recorded }}<tr><th>Recorded</th><td><code>{{ . | time.Format ":date_long" }}</code></td></tr>{{ end }}
+    {{ with .Params.leaked }}<tr><th>Leaked</th><td><code>{{ . | time.Format ":date_long" }}</code></td></tr>{{ end }}
+    {{ with .Params.length }}<tr><th>Length</th><td><code>{{ . }}</code></td></tr>{{ end }}
+    {{ with .Params.md5 }}<tr><th>MD5</th><td><code>{{ . }}</code></td></tr>{{ end }}
+    {{ if isset .Params "mirrors" }}
+    <tr>
+        <th>Mirrors</th>
+        <td>
+            <ul id='mirrors'>
+                {{ range.Params.mirrors }}
+                <li><a href='#invalid'>{{ . }}</a></li>
+                {{ end }}
+            </ul>
+        </td>
+    </tr>
+    {{ end }}
+</table>
+<script src='/single.js'></script>
+
+{{ partial "footer.html" . }}

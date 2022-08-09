@@ -1,0 +1,53 @@
+#search {
+    display: block;
+    margin: auto;
+    border: none;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 1em 1em;
+    background-color: hsla(216, 7%, 5%, 1);
+    color: white;
+    outline: none;
+    border-radius: 1em;
+}
+
+#search:focus {
+    outline: 1px solid hsla(216, 7%, 25%, 1);
+}
+
+.tags > span {
+    display: inline-block;
+    color: hsla(216, 7%, 50%, 1);
+    border: 1px solid hsla(216, 7%, 20%, 1);
+    border-radius: 1em;
+    padding: 0.25em 1em;
+    margin: 1em 0.25em 0 0;
+}
+
+#pages {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+#pages a > li {
+    padding: 1em;
+    border-bottom: 1px dashed hsla(216, 7%, 6%, 1);
+}
+
+#pages li:hover {
+	background-color: hsla(216, 7%, 7%, 1);
+}
+
+#pages a > li > h1 {
+    margin: 0;
+}
+
+.artists {
+    font-weight: 600;
+    opacity: 0.75;
+}
+
+.artists > span + span:before {
+    content: ', ';
+}

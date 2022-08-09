@@ -1,0 +1,69 @@
+header h1 {
+    margin: 0 0 0.5em 0;
+}
+
+#metadata {
+    margin: auto;
+    table-layout: fixed;
+    border-spacing: 0 1em;
+}
+
+#metadata th {
+    text-align: left;
+    width: 6em;
+    vertical-align: top;
+}
+
+#mirrors {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+#mirrors li > a {
+    display: block;
+    padding: 0.5em 1em;
+    margin: 0 0.5em 0.5em 0;
+	background-color: hsla(216, 7%, 12%, 1);
+    border-radius: 1em;
+}
+
+#mirrors li > a:hover {
+	background-color: hsla(216, 7%, 16%, 1);
+}
+
+#mirrors li > a::before {
+    content: "🔗 "
+}
+
+#tags {
+	text-align: center;
+	clear: both;
+	margin-bottom: 1.5em;
+}
+
+.tag {
+    display: inline-block;
+    border: 1px solid hsla(216, 7%, 22%, 1);
+    border-radius: 1em;
+    padding: 0.25em 1em;
+    margin: 0 0.25em;
+}
+
+.tag:hover {
+	background-color: hsla(216, 7%, 22%, 1);
+}
+
+.artists {
+    text-align: center;
+    margin-top: 1.5em;
+    opacity: 0.75;
+    font-weight: 600;
+}
+
+.artists > span + span:before {
+    content: ', ';
+}
