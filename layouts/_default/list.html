@@ -1,4 +1,5 @@
 {{ partial "header.html" . }}
+<body>
 
 <header>
     <h1>{{ .Title | title }}</h1>
@@ -10,7 +11,7 @@
         <a class='page' href="{{ .RelPermalink }}" data-tags='{{ .Params.artists }}{{ .Params.aka }}{{ .Params.tags }}'>
             <div class='comma-list'>{{ range .Params.artists }}<span>{{ . | title }}</span>{{ end }}</div>
 
-            <h1>{{ replace .File.BaseFileName "-" " " | title }}</h1>
+            <h1>{{ with .File }}{{ replace .BaseFileName "-" " " | title }}{{ end }}</h1>
 
             {{ partial "taglist.html" . }}
         </a>
@@ -20,4 +21,5 @@
 
 <script src='/search.js'></script>
 
-{{ partial "footer.html" . }}
+</body>
+</html>
