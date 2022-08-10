@@ -1,5 +1,6 @@
 ---
 artists: ["playboi carti"]
+producers: ["lyle leduff"]
 tags: ["2017", "original"]
 file_name: Carti Lyle They Hatin rough.mp3
 file_title: Carti Lyle They Hatin
