@@ -5,9 +5,8 @@
 body {
 	color: white;
 	background-color: hsla(216, 7%, 8%, 1);
-	max-width: 500px;
+	max-width: 600px;
 	margin: auto;
-
 }
 
 a {
@@ -55,7 +54,6 @@ footer {
     font-weight: 600;
 }
 
-.artists > span + span:before {
+.comma-list > span + span:before {
     content: ', ';
 }
-

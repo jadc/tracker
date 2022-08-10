@@ -1,5 +1,6 @@
 <table id='metadata'>
-    {{ if isset .Params "aka" }}<tr><th>Aka.</th><td class='aliases'>{{ range sort .Params.aka }}<span>{{ . | title }}</span>{{ end }}</td></tr>{{ end }}
+    {{ if isset .Params "aka" }}<tr><th>Aka.</th><td class='comma-list'>{{ range sort .Params.aka }}<span>{{ . | title }}</span>{{ end }}</td></tr>{{ end }}
+    {{ if isset .Params "producers" }}<tr><th>Producer(s)</th><td class='comma-list'>{{ range sort .Params.producers }}<span>{{ . | title }}</span>{{ end }}</td></tr>{{ end }}
     {{ with .Params.file_name }}<tr><th>File name</th><td>{{ . }}</td></tr>{{ end }}
     {{ with .Params.file_title }}<tr><th>File title</th><td>{{ . }}</td></tr>{{ end }}
     {{ with .Params.file_comment }}<tr><th>File comment</th><td>{{ . }}</td></tr>{{ end }}
