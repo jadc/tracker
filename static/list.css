@@ -1,3 +1,7 @@
+header {
+    margin: 1em;
+}
+
 #search {
     display: block;
     font-size: 1em;
@@ -19,6 +23,7 @@
 .page {
     display: block;
     padding: 1em;
+    border-radius: 0.5em;
     border-bottom: 1px dashed hsla(216, 7%, 6%, 1);
     transition: background-color 100ms;
 }
@@ -30,4 +35,5 @@
 .page > h1 {
     margin: 0;
     margin-bottom: 0.5em;
+    font-size: 1.75em;
 }

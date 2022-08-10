@@ -7,9 +7,12 @@ header > h1 {
     margin-bottom: 0.5em;
 }
 
+main {
+    margin: 1em;
+}
+
 #metadata {
     margin: auto;
-    margin-top: 1em;
     table-layout: fixed;
     border-spacing: 0 1em;
 }
