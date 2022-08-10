@@ -1,23 +1,22 @@
 {{ partial "header.html" . }}
-<header><h1 id="tag_{{ .Title }}">{{ .Title | title }}</h1></header>
-<article>
-<input id='search' type='text' placeholder='Search...' spellcheck='false' autocomplete='off'>
-<ul id='pages'>
+
+<header>
+    <h1>{{ .Title | title }}</h1>
+    <input id='search' type='text' placeholder='Search...' spellcheck='false' autocomplete='off'>
+</header>
+<main>
 {{ with .Pages }}
     {{ range sort . ".Params.leaked" "desc" }}
-        <a href="{{ .RelPermalink }}">
-            <li data-tags='{{ .Params.artists }}{{ .Params.tags }}'>
-                <div class='artists'>{{ range .Params.artists }}<span>{{ . | title }}</span>{{ end }}</div>
+        <a class='page' href="{{ .RelPermalink }}" data-tags='{{ .Params.artists }}{{ .Params.aka }}{{ .Params.tags }}'>
+            <div class='artists'>{{ range .Params.artists }}<span>{{ . | title }}</span>{{ end }}</div>
 
-                <h1>{{ replace .File.BaseFileName "-" " " | title }}</h1>
+            <h1>{{ replace .File.BaseFileName "-" " " | title }}</h1>
 
-                <div class='tags'>{{ range .Params.tags }}<span>{{ . | title }}</span>{{ end }}</div>
-            </li>
+            {{ partial "taglist.html" . }}
         </a>
     {{ end }}
 {{ end }}
-</ul>
-</article>
+</main>
 
 <script src='/search.js'></script>
 

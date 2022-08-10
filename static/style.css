@@ -5,21 +5,14 @@
 body {
 	color: white;
 	background-color: hsla(216, 7%, 8%, 1);
+	max-width: 500px;
+	margin: auto;
+
 }
 
 a {
     text-decoration: none;
     color: white;
-}
-
-code {
-    font-family: 'Roboto Mono', monospace;
-    font-size: 90%;
-}
-
-main {
-    max-width: 500px;
-	margin: auto;
 }
 
 header {
@@ -38,6 +31,7 @@ footer {
     font-size: 150%;
     width: 2em;
     height: 2em;
+    background-image: url('back.svg');
 	background-color: hsla(216, 7%, 12%, 1);
     border-radius: 100%;
     margin-top: 1em;
@@ -47,3 +41,21 @@ footer {
     background-color: #ccc;
 	background-color: hsla(216, 7%, 16%, 1);
 }
+
+.tags > span {
+    display: inline-block;
+    border: 1px solid hsla(216, 7%, 22%, 1);
+    color: hsla(216, 7%, 50%, 1);
+    border-radius: 1em;
+    padding: 0.25em 1em;
+}
+
+.artists {
+    opacity: 0.75;
+    font-weight: 600;
+}
+
+.artists > span + span:before {
+    content: ', ';
+}
+

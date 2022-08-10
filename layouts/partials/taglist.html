@@ -1,11 +1,7 @@
-{{- if isset .Params "tags" -}}
-    {{- $tagsLen := len .Params.tags -}}
-    {{- if gt $tagsLen 0 -}}
-    <div id="tags">
-        {{- range $k, $v := .Params.tags -}}
-        {{- $url := printf "tags/%s" (. | urlize | lower) -}}
-        <a class='tag' id="tag_{{ . | lower }}" href="{{ $url | absURL }}">{{ . | title }}</a>
-        {{- end -}}
-    </div>
-    {{- end -}}
-{{- end }}
+{{ with .Params.tags }}
+<div class='tags'>
+    {{ range sort . "value" "desc" }}
+        <span>{{ . | title }}</span>
+    {{ end }}
+</div>
+{{ end }}

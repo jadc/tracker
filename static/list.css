@@ -15,39 +15,18 @@
     outline: 1px solid hsla(216, 7%, 25%, 1);
 }
 
-.tags > span {
-    display: inline-block;
-    color: hsla(216, 7%, 50%, 1);
-    border: 1px solid hsla(216, 7%, 20%, 1);
-    border-radius: 1em;
-    padding: 0.25em 1em;
-    margin: 1em 0.25em 0 0;
-}
-
-#pages {
-    list-style: none;
-    margin: 0;
-    padding-left: 0;
-}
-
-#pages a > li {
+.page {
+    display: block;
     padding: 1em;
     border-bottom: 1px dashed hsla(216, 7%, 6%, 1);
+    transition: background-color 100ms;
 }
 
-#pages li:hover {
+.page:hover {
 	background-color: hsla(216, 7%, 7%, 1);
 }
 
-#pages a > li > h1 {
+.page > h1 {
     margin: 0;
-}
-
-.artists {
-    font-weight: 600;
-    opacity: 0.75;
-}
-
-.artists > span + span:before {
-    content: ', ';
+    margin-bottom: 0.5em;
 }
