@@ -1,5 +1,6 @@
 ---
 artists: ["playboi carti", "capo DTE"]
+producers: ["zwiffa"]
 tags: ["2020", "original"]
 file_name: BALLIN.mp3
 file_title: BALLIN

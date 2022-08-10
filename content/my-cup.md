@@ -1,5 +1,6 @@
 ---
 artists: ["playboi carti"]
+producers: ["richie souf"]
 tags: ["2020"]
 file_name: PBC - My Cup (Prod Richie Souf).mp3
 file_title: rs_
