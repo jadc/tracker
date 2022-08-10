@@ -34,6 +34,9 @@ header {
 
 .title > h1 {
     margin: 0;
-    margin-bottom: 0.5em;
     font-size: 1.75em;
+}
+
+.tags {
+    margin-top: 0.5em;
 }
