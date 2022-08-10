@@ -18,26 +18,21 @@ header {
     text-align: center;
 }
 
-footer {
-	text-align: center;
-	clear: both;
-}
-
-#back {
-    display: inline-flex;
+nav {
+    display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 150%;
-    width: 2em;
-    height: 2em;
-    background-image: url('back.svg');
-	background-color: hsla(216, 7%, 12%, 1);
-    border-radius: 100%;
-    margin-top: 1em;
 }
 
-#back:hover {
-    background-color: #ccc;
+nav > a {
+    font-size: 150%;
+	background-color: hsla(216, 7%, 12%, 1);
+    border-radius: 100%;
+    margin: 0 0.5em;
+    padding: 0.5em;
+}
+
+nav > a:hover {
 	background-color: hsla(216, 7%, 16%, 1);
 }
 
