@@ -10,7 +10,7 @@
     {{ if isset .Params "mirrors" }}
     <tr>
         <th>Mirrors</th>
-        <td id='mirrors'>
+        <td>
             {{ range .Params.mirrors }}
             <a class='mirror' href='#invalid'>{{ . }}</a>
             {{ end }}
