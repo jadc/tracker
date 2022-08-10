@@ -20,7 +20,7 @@ main {
 
 #metadata th {
     text-align: left;
-    width: 6em;
+    width: 7em;
     vertical-align: top;
 }
 
@@ -40,8 +40,4 @@ main {
 
 .mirror::before {
     content: "🔗 "
-}
-
-.aliases > span + span:before {
-    content: ', ';
 }
