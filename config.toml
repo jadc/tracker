@@ -2,5 +2,8 @@ languageCode = 'en-us'
 title = 'Tracker'
 baseURL = 'http://leak.info.gf/'
 
+[params]
+  favicon = '/icon.svg'
+
 [taxonomies]
   artist = 'artists'

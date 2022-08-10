@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const pages = document.querySelectorAll('li');
+    const pages = document.querySelectorAll('a');
     const search = document.getElementById('search');
 
     search.addEventListener('input', () => {
@@ -13,9 +13,10 @@ document.addEventListener('DOMContentLoaded', () => {
             const toMatch = clean(matchable.join(' '));
             const isMatch = query.every(term => toMatch.includes(term));
 
-            page.style.display = isMatch ? 'list-item' : 'none';
+            page.style.display = isMatch ? 'block' : 'none';
         });
     });
+    console.log('loaded search bar');
 })
 
 function clean(input){

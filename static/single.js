@@ -1,17 +1,16 @@
 /* Decodes Base64 encoded URLs on single pages */
 
 (() => {
-    mirrors = document.getElementById('mirrors').children
-    for(mirror of mirrors){
-        link = mirror.firstChild
-        url = toURL(decode(link.innerHTML))
+    for(mirror of document.getElementsByClassName('mirror')){
+        url = toURL(decode(mirror.innerHTML))
 
         /* Only valid inputs will display */
         if(url){
-            link.href = url
-            link.innerHTML = url.hostname
+            mirror.href = url
+            mirror.innerHTML = url.hostname
         }else{
             mirror.remove();
+            console.error(`Failed to decode mirror with string '${link.innerHTML}'`)
         }
     }
 })();
