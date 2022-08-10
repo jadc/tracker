@@ -9,10 +9,11 @@
 {{ with .Pages }}
     {{ range sort . ".Params.leaked" "desc" }}
         <a class='page' href="{{ .RelPermalink }}" data-tags='{{ .Params.artists }}{{ .Params.aka }}{{ .Params.tags }}'>
-            <div class='comma-list'>{{ range .Params.artists }}<span>{{ . | title }}</span>{{ end }}</div>
+            <div class='title'>
+                <div class='comma-list'>{{ range .Params.artists }}<span>{{ . | title }}</span>{{ end }}</div>
 
-            <h1>{{ with .File }}{{ replace .BaseFileName "-" " " | title }}{{ end }}</h1>
-
+                <h1>{{ with .File }}{{ replace .BaseFileName "-" " " | title }}{{ end }}</h1>
+            </div>
             {{ partial "taglist.html" . }}
         </a>
     {{ end }}
