@@ -11,6 +11,10 @@ main {
     margin: 1em;
 }
 
+main > p {
+    text-align: center;
+}
+
 #metadata {
     margin: auto;
     table-layout: fixed;
