@@ -1,14 +1,15 @@
 #search {
     display: block;
+    font-size: 1em;
     margin: auto;
     border: none;
     width: 100%;
     box-sizing: border-box;
-    padding: 1em 1em;
+    padding: 1em 1.5em;
     background-color: hsla(216, 7%, 5%, 1);
     color: white;
     outline: none;
-    border-radius: 1em;
+    border-radius: 2em;
 }
 
 #search:focus {
