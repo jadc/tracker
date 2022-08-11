@@ -21,7 +21,9 @@ header {
 }
 
 .page {
-    display: block;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     padding: 1em;
     border-radius: 0.5em;
     border-bottom: 1px dashed hsla(216, 7%, 6%, 1);
@@ -35,8 +37,4 @@ header {
 .title > h1 {
     margin: 0;
     font-size: 1.75em;
-}
-
-.tags {
-    margin-top: 0.5em;
 }
