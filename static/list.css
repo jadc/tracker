@@ -41,8 +41,6 @@ header {
 
 .tags {
     display: flex;
-    justify-content: flex-end;
-    flex-wrap: wrap;
-    flex-direction: row-reverse;
+    flex-flow: row-reverse wrap;
 }
 
