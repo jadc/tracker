@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const toMatch = clean(matchable.join(' '));
             const isMatch = query.every(term => toMatch.includes(term));
 
-            page.style.display = isMatch ? 'block' : 'none';
+            page.style.display = isMatch ? 'flex' : 'none';
         });
     });
     console.log('loaded search bar');
