@@ -42,6 +42,7 @@ nav > a:hover {
     border-radius: 1em;
     padding: 0.25em 0.75em;
     margin: 0.1em;
+    white-space: nowrap;
 }
 
 .artists {
