@@ -1,7 +1,7 @@
 ---
 artists: ["playboi carti"]
 producers: ["astro"]
-tags: ["2018", "original"]
+tags: ["2018", "OG file"]
 file_name: AllDay PBC x Astro 8.24.18 SR.mp3
 recorded: 2018-08-24
 leaked: 2022-07-23

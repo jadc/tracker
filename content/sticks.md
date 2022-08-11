@@ -2,7 +2,7 @@
 aka: ["king tut"]
 artists: ["playboi carti"]
 producers: ["metro boomin"]
-tags: ["2018", "original"]
+tags: ["2018", "OG file"]
 file_name: Carti x Metro1 2.14.18.mp3
 recorded: 2018-02-14
 leaked: 2022-07-23

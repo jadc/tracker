@@ -2,7 +2,7 @@
 aka: ["bags on me", "500 degrees"]
 artists: ["playboi carti"]
 producers: ["earl on the beat", "MitchGoneMad"]
-tags: ["2018", "original"]
+tags: ["2018", "OG file"]
 file_name: Shopping Spree 11.22.18.mp3 
 file_title: Balmain Jeans 11.22.18 
 recorded: 2018-11-22

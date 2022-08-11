@@ -2,7 +2,7 @@
 aka: ["i need"]
 artists: ["playboi carti"]
 producers: ["pi'erre bourne"]
-tags: ["2017", "original", "open"]
+tags: ["2017", "OG file", "open"]
 file_name: Issa Dub 12.6.17.mp3
 file_title: Issa Dub 12.6.17
 recorded: 2017-12-06

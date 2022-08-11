@@ -1,7 +1,7 @@
 ---
 artists: ["playboi carti"]
 producers: ["don cannon"]
-tags: ["2018", "original"]
+tags: ["2018", "OG file"]
 file_name: Playboi Carti x Canon [Way Too Geeked] x AJ.mp3
 file_title: Playboi Carti x Canon [Way Too
 leaked: 2022-07-23
