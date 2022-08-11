@@ -44,3 +44,15 @@ header {
     flex-flow: row-reverse wrap;
 }
 
+/* moves tags below title on narrow screen sizes */
+@media only screen and (max-width: 500px){
+    .page {
+        flex-flow: column wrap;
+        align-items: start;
+    }
+
+    .tags {
+        margin-top: 0.5em;
+        flex-flow: row wrap;
+    }
+}
