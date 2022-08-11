@@ -1,7 +1,7 @@
 ---
 artists: ["playboi carti", "capo DTE"]
 producers: ["zwiffa"]
-tags: ["2020", "original"]
+tags: ["2020", "OG file"]
 file_name: BALLIN.mp3
 file_title: BALLIN
 leaked: 2022-03-20

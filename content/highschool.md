@@ -2,7 +2,7 @@
 aka: ["way back"]
 artists: ["playboi carti"]
 producers: ["pi'erre bourne"]
-tags: ["2018", "original"]
+tags: ["2018", "OG file"]
 file_name: CARTI 222_01.30.18.mp3
 file_title: Carti Pierre Highschool
 recorded: 2018-01-30

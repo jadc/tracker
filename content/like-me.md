@@ -1,7 +1,7 @@
 ---
 artists: ["playboi carti"]
 producers: ["pi'erre bourne"]
-tags: ["original"]
+tags: ["OG file"]
 file_name: LIKE ME.mp3
 leaked: 2022-07-23
 length: 0:57

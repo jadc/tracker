@@ -1,7 +1,7 @@
 ---
 artists: ["playboi carti"]
 producers: ["lyle leduff"]
-tags: ["2017", "original"]
+tags: ["2017", "OG file"]
 file_name: Carti Lyle They Hatin rough.mp3
 file_title: Carti Lyle They Hatin
 leaked: 2022-07-23

@@ -2,7 +2,7 @@
 aka: ["s3"]
 artists: ["playboi carti"]
 producers: ["pi'erre bourne"]
-tags: ["2017", "original", "open"]
+tags: ["2017", "OG file", "open"]
 file_name: Carti - S3 (ref).mp3
 file_title: Carti - S3 (ref)
 leaked: 2022-07-23

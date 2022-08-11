@@ -2,7 +2,7 @@
 aka: ["like i'm swoosh"]
 artists: ["lil uzi vert", "playboi carti"]
 producers: ["pi'erre bourne"]
-tags: ["2018", "original"]
+tags: ["2018", "OG file"]
 file_name: Carti Uzi X Candy.mp3
 file_title: Carti Uzi X Candy
 leaked: 2022-07-23
