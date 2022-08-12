@@ -1,4 +1,5 @@
 ---
+title: fuck school
 aka: ["mad", "highschool"]
 artists: ["playboi carti"]
 producers: ["pi'erre bourne"]

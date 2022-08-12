@@ -1,4 +1,5 @@
 ---
+title: outside
 artists: ["playboi carti"]
 producers: ["f1lthy"]
 tags: ["2020"]

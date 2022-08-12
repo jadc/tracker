@@ -1,4 +1,5 @@
 ---
+title: shut up
 aka: ["white couch"]
 artists: ["playboi carti"]
 producers: ["digital nas"]

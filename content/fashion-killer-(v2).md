@@ -1,4 +1,5 @@
 ---
+title: fashion killer (v2)
 aka: ["choppa go", "choppa dump em", "fashion killa"]
 artists: ["playboi carti", "key glock"]
 producers: ["pi'erre bourne"]

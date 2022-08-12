@@ -1,4 +1,5 @@
 ---
+title: all day
 artists: ["playboi carti"]
 producers: ["astro"]
 tags: ["2018", "OG file"]

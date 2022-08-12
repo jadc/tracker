@@ -1,4 +1,5 @@
 ---
+title: my cup
 artists: ["playboi carti"]
 producers: ["richie souf"]
 tags: ["2020"]

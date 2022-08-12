@@ -1,4 +1,5 @@
 ---
+title: flex
 aka: ["good credit"]
 artists: ["RX PESO", "playboi carti"]
 producers: ["pi'erre bourne"]

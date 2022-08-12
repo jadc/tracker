@@ -1,4 +1,5 @@
 ---
+title: fuck my ex
 artists: ["playboi carti"]
 tags: ["OG file"]
 file_name: PBC Fuck My Ex.m4a

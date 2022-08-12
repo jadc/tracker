@@ -1,4 +1,5 @@
 ---
+title: finesse remix
 aka: ["fell in love"]
 artists: ["playboi carti"]
 producers: ["cap crunch", "chinatown"]

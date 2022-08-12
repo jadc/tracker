@@ -1,4 +1,5 @@
 ---
+title: sticks
 aka: ["king tut"]
 artists: ["playboi carti"]
 producers: ["metro boomin"]

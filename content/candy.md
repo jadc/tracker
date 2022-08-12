@@ -1,4 +1,5 @@
 ---
+title: candy
 aka: ["like i'm swoosh"]
 artists: ["lil uzi vert", "playboi carti"]
 producers: ["pi'erre bourne"]
