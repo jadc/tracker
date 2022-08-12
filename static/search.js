@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const pages = document.querySelectorAll('a');
+    const pages = document.querySelectorAll('a.page');
     const search = document.getElementById('search');
 
     search.addEventListener('input', () => {
@@ -7,7 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         pages.forEach(page => {
             const matchable = [
-                page.getElementsByTagName('h1')[0].innerHTML,
+                page.getElementsByClassName('title')[0].getElementsByTagName('h1')[0].innerHTML,
+                page.dataset.artists,
                 page.dataset.tags
             ];
             const toMatch = clean(matchable.join(' '));

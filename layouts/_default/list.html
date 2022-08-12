@@ -2,22 +2,28 @@
 <body>
 
 <header>
-    <h1>{{ .Title | title }}</h1>
-    <input id='search' type='text' placeholder='Search...' spellcheck='false' autocomplete='off'>
+    {{ if not .IsHome }}
+        <h1>{{ .Title | title }} Tracker</h1>
+    {{ else }}
+        <h1>&#128279;</h1>
+    {{ end }}
+    {{ partial "nav.html" . }}
 </header>
 <main>
-{{ with .Pages }}
-    {{ range sort . ".Params.leaked" "desc" }}
-        <a class='page' href="{{ .RelPermalink }}" data-tags='{{ .Params.artists }}{{ .Params.aka }}{{ .Params.tags }}'>
-            <div class='title'>
-                <div class='comma-list'>{{ range .Params.artists }}<span>{{ . | title }}</span>{{ end }}</div>
+    {{ with .Pages }}
+        {{ range sort . ".Params.leaked" "desc" }}
+            <a class='page' href="{{ .RelPermalink }}" data-artists='{{ .Params.artists }}{{ .Params.producers }}' data-tags='{{ .Params.aka }}{{ .Params.tags }}'>
+                <div class='title'>
+                    {{ with .Params.artists }}
+                        <div class='comma-list'>{{ range . }}<span>{{ . | title }}</span>{{ end }}</div>
+                    {{ end }}
 
-                <h1>{{ with .File }}{{ replace .BaseFileName "-" " " | title }}{{ end }}</h1>
-            </div>
-            {{ partial "taglist.html" . }}
-        </a>
+                    <h1>{{ .Title | title }}</h1>
+                </div>
+                {{ partial "taglist.html" . }}
+            </a>
+        {{ end }}
     {{ end }}
-{{ end }}
 </main>
 
 <script src='/search.js'></script>

@@ -2,20 +2,21 @@
 # ./genmd.sh <file name>
 # this script sucks at the moment
 read -p 'Page name: ' pagename
-pagename=content/$(echo $pagename | tr ' ' '-').md
+file=content/$(echo $pagename | tr ' ' '-').md
 
-echo '---' >> $pagename
-echo 'aka: []' >> $pagename
-echo 'artists: []' >> $pagename
-echo 'producers: []' >> $pagename
-echo 'tags: []' >> $pagename
-echo "file_name: $(exiftool "$1" -a -s -s -s -FileName)" >> $pagename
-echo "file_title: $(exiftool "$1" -a -s -s -s -Title)" >> $pagename
-echo "file_comment: $(exiftool "$1" -a -s -s -s -Comment)" >> $pagename
-echo 'recorded: ' >> $pagename
-echo 'leaked: ' >> $pagename
-echo "length: $(exiftool "$1" -a -s -s -s -Duration)" >> $pagename
+echo '---' >> $file
+echo "title: $pagename" >> $file
+echo 'aka: []' >> $file
+echo 'artists: []' >> $file
+echo 'producers: []' >> $file
+echo 'tags: []' >> $file
+echo "file_name: $(exiftool "$1" -a -s -s -s -FileName)" >> $file
+echo "file_title: $(exiftool "$1" -a -s -s -s -Title)" >> $file
+echo "file_comment: $(exiftool "$1" -a -s -s -s -Comment)" >> $file
+echo 'recorded: ' >> $file
+echo 'leaked: ' >> $file
+echo "length: $(exiftool "$1" -a -s -s -s -Duration)" >> $file
 md5=($(md5sum "$1"))
-echo "md5: $md5" >> $pagename
-echo 'mirrors: []' >> $pagename
-echo '---' >> $pagename
+echo "md5: $md5" >> $file
+echo 'mirrors: []' >> $file
+echo '---' >> $file
