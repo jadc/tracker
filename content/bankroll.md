@@ -1,4 +1,5 @@
 ---
+title: bankroll
 artists: ["lil uzi vert", "playboi carti"]
 producers: ["DP beats"]
 tags: ["2018", "OG file"]

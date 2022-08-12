@@ -1,4 +1,5 @@
 ---
+title: xans & percs
 artists: ["playboi carti"]
 producers: ["hit-boy"]
 tags: ["2017", "OG file"]

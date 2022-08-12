@@ -1,4 +1,5 @@
 ---
+title: designer shoes
 aka: ["brand new (v2)"]
 artists: ["playboi carti"]
 producers: ["chinatown"]

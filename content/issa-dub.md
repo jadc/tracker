@@ -1,4 +1,5 @@
 ---
+title: issa dub
 aka: ["i need"]
 artists: ["playboi carti"]
 producers: ["pi'erre bourne"]

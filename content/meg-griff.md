@@ -1,4 +1,5 @@
 ---
+title: meg griff
 aka: ["big bank (v1)"]
 artists: ["playboi carti", "lil uzi vert"]
 producers: ["pi'erre bourne"]

@@ -1,4 +1,5 @@
 ---
+title: bring yo friends
 aka: ["rover", "dope in the rover", "rover sport"]
 artists: ["playboi carti"]
 producers: ["lil 88"]

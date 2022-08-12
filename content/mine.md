@@ -1,4 +1,5 @@
 ---
+title: mine
 aka: ["a lot on my mind"]
 artists: ["playboi carti"]
 producers: ["pi'erre bourne"]

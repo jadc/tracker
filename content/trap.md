@@ -1,4 +1,5 @@
 ---
+title: trap
 aka: ["classroom"]
 artists: ["playboi carti"]
 producers: ["pi'erre bourne"]

@@ -1,4 +1,5 @@
 ---
+title: pool
 aka: ["s3"]
 artists: ["playboi carti"]
 producers: ["pi'erre bourne"]

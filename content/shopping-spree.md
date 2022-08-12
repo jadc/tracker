@@ -1,4 +1,5 @@
 ---
+title: shopping spree
 aka: ["bags on me", "500 degrees"]
 artists: ["playboi carti"]
 producers: ["earl on the beat", "MitchGoneMad"]

@@ -1,4 +1,5 @@
 ---
+title: highschool
 aka: ["way back"]
 artists: ["playboi carti"]
 producers: ["pi'erre bourne"]

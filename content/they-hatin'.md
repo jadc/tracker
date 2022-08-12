@@ -1,4 +1,5 @@
 ---
+title: they hatin'
 artists: ["playboi carti"]
 producers: ["lyle leduff"]
 tags: ["2017", "OG file"]
