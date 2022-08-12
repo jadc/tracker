@@ -28,22 +28,8 @@ header {
     text-align: center;
 }
 
-nav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-nav > a {
-    font-size: 150%;
-	background-color: hsla(216, 7%, 12%, 1);
-    border-radius: 100%;
-    margin: 0 0.5em;
-    padding: 0.5em;
-}
-
-nav > a:hover {
-	background-color: hsla(216, 7%, 16%, 1);
+header h1 {
+    margin: 0;
 }
 
 .tags > span {
@@ -53,11 +39,6 @@ nav > a:hover {
     padding: 0.25em 0.75em;
     margin: 0.1em;
     white-space: nowrap;
-}
-
-.artists {
-    opacity: 0.75;
-    font-weight: 600;
 }
 
 .comma-list > span + span:before {

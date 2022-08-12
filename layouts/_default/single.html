@@ -3,7 +3,7 @@
 
 <header>
     <div class='comma-list'>{{ range.Params.artists }}<span>{{ . | title }}</span>{{ end }}</div>
-    <h1>{{ with .File }}{{ replace .BaseFileName "-" " " | title }}{{ end }}</h1>
+    <h1>{{ .Title | title }}</h1>
     {{ partial "taglist.html" . }}
 </header>
 <main>

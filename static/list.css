@@ -2,24 +2,6 @@ header {
     margin: 1em;
 }
 
-#search {
-    display: block;
-    font-size: 1em;
-    margin: auto;
-    border: none;
-    width: 100%;
-    box-sizing: border-box;
-    padding: 1em 1.5em;
-    background-color: hsla(216, 7%, 5%, 1);
-    color: white;
-    outline: none;
-    border-radius: 2em;
-}
-
-#search:focus {
-    outline: 1px solid hsla(216, 7%, 25%, 1);
-}
-
 .page {
     display: flex;
     justify-content: space-between;
@@ -33,6 +15,42 @@ header {
 .page:hover {
 	background-color: hsla(216, 7%, 7%, 1);
 }
+
+nav {
+    display: flex;
+    margin-top: 1em;
+}
+
+nav > a {
+	background-color: hsla(216, 7%, 12%, 1);
+    border-radius: 1.5em;
+    padding: 0.5em 1em;
+    margin: 0.5em 0.25em;
+    flex-grow: 0;
+}
+
+nav > a:hover {
+	background-color: hsla(216, 7%, 16%, 1);
+}
+
+#search {
+    font-size: 1em;
+    flex-grow: 1;
+    border: none;
+    padding: 0.5em 1em;
+    margin: 0.5em 0.25em;
+    border-radius: 1.5em;
+    background-color: hsla(216, 7%, 5%, 1);
+    color: white;
+    outline: none;
+}
+
+#search:focus {
+    outline: 1px solid hsla(216, 7%, 25%, 1);
+}
+
+
+
 
 .title > h1 {
     margin: 0;
@@ -54,5 +72,9 @@ header {
     .tags {
         margin-top: 0.5em;
         flex-flow: row wrap;
+    }
+
+    nav {
+        flex-direction: column;
     }
 }
