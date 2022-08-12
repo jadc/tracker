@@ -1,5 +1,5 @@
 ---
-title: {{ with .File }}{{ replace .BaseFileName "-" " " | title }}{{ end }}
+title: {{ with .File }}{{ replace .BaseFileName "-" " " }}{{ end }}
 aka: []
 artists: []
 producers: []
