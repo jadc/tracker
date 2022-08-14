@@ -12,7 +12,7 @@
 <main>
     {{ with .Pages }}
         {{ range sort . ".Params.leaked" "desc" }}
-            <a class='page' href="{{ .RelPermalink }}" data-artists='{{ .Params.artists }}{{ .Params.producers }}' data-tags='{{ .Params.aka }}{{ .Params.tags }}'>
+        <a class='page' href="{{ .RelPermalink }}" data-artists='{{ .Params.artists }}{{ .Params.producers }}' data-tags='{{ .Params.aka }}{{ .Params.tags }}' {{ if gt (len .Summary) 0 }} title='{{ .Summary }}' {{ end }}>
                 <div class='title'>
                     {{ with .Params.artists }}
                         <div class='comma-list'>{{ range . }}<span>{{ . | title }}</span>{{ end }}</div>
