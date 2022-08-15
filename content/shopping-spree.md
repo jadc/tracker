@@ -1,6 +1,6 @@
 ---
 title: shopping spree
-aka: ["bags on me", "500 degrees"]
+aka: ["bags on me", "500 degrees", "balmain jeans"]
 artists: ["playboi carti"]
 producers: ["earl on the beat", "MitchGoneMad"]
 tags: ["2018", "OG file"]
