@@ -3,7 +3,7 @@ title: snitches
 aka: ["pull up with a stick"]
 artists: ["playboi carti"]
 producers: ["southside"]
-tags: ["2017", "OG file"]
+tags: ["2017"]
 file_name: carti sizzle snitches v1.5 legend418.mp3
 leaked: 2018-04-07
 length: 2:02
