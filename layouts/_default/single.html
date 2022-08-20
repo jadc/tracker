@@ -4,8 +4,8 @@
     {{ partial "header.html" . }}
     <link rel='stylesheet' type='text/css' href='/single.css'>
 
-    <meta content="{{ with .Params.artists }}{{ delimit . ", " }} - {{ end }}{{ .Title | title }}" property="og:title" />
-    <meta content="{{ with .Params.tags }}{{ delimit . ", " }}. {{ end }}{{ .Summary }}" property="og:description" />
+    <meta content="{{ with .Params.artists }}{{ delimit . ", " | title }} - {{ end }}{{ .Title | title }}" property="og:title" />
+    <meta content="{{ with .Params.tags }}{{ delimit . ", " | title }}. {{ end }}{{ with .Params.aka }}Also known as {{ delimit . ", " | title }}. {{ end }}{{ .Summary }}" property="og:description" />
 </head>
 <body>
 
