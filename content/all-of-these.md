@@ -2,7 +2,7 @@
 title: all of these
 artists: ["playboi carti"]
 producers: ["DY krazy"]
-tags: ["OG file"]
+tags: ["2018", "OG file"]
 file_name: Carti Dy 2 .mp3
 leaked: 2022-07-23
 length: 1:35
