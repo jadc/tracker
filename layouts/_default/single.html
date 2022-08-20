@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language }}">
 <head>
+    {{ partial "header.html" . }}
     <link rel='stylesheet' type='text/css' href='/single.css'>
 
-    <meta content="{{ with .Params.artists }}{{ . }} - {{ end }}{{ .Title | title }}" property="og:title" />
-    <meta content="{{ with .Params.tags }}{{ . }}. {{ end }}{{ .Summary }}" property="og:description" />
-    {{ partial "header.html" . }}
+    <meta content="{{ with .Params.artists }}{{ delimit . ", " }} - {{ end }}{{ .Title | title }}" property="og:title" />
+    <meta content="{{ with .Params.tags }}{{ delimit . ", " }}. {{ end }}{{ .Summary }}" property="og:description" />
 </head>
 <body>
 

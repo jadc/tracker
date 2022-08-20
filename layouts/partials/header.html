@@ -1,4 +1,5 @@
 <title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
+<link rel='stylesheet' type='text/css' href='/style.css'>
 
 <!-- Icon -->
 {{ with .Site.Params.favicon }}
@@ -18,8 +19,6 @@
 <!-- SEO -->
 <meta name="description" content="{{ .Summary }}">
 <link rel="canonical" href="{{ .Site.BaseURL }}">
-<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
-<link rel='stylesheet' type='text/css' href='/style.css'>
 {{ if isset .Params "tags" }}<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">{{ end }}
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index, follow">
