@@ -2,12 +2,18 @@
 <html lang="{{ .Site.Language }}">
 <head>
 	<title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
+    <meta content="{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}" property="og:title" />
 	<link rel="canonical" href="{{ .Site.BaseURL }}">
 	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
 	<link rel='stylesheet' type='text/css' href='/style.css'>
 
     {{ if .IsPage }}
 	<link rel='stylesheet' type='text/css' href='/single.css'>
+    <!-- Discord embed -->
+    <meta content="{{ .Content }}" property="og:description" />
+    <meta content="{{ .Site.BaseURL }}" property="og:url" />
+    <meta content="icon.svg" property="og:image" />
+    <meta content="#2F3136" data-react-helmet="true" name="theme-color" />
     {{ else }}
 	<link rel='stylesheet' type='text/css' href='/list.css'>
     {{ end }}
