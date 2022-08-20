@@ -3,7 +3,7 @@ title: bring yo friends
 aka: ["rover", "dope in the rover", "rover sport"]
 artists: ["playboi carti"]
 producers: ["lil 88"]
-tags: ["2020", "OG file"]
+tags: ["2020"]
 file_name: bring yo friends-1.mp3
 recorded: 2020-07-23
 leaked: 2022-07-23
