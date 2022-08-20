@@ -1,4 +1,11 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+<head>
+	<link rel='stylesheet' type='text/css' href='/list.css'>
+    <meta content="{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}" property="og:title" />
+    <!--<meta content="{{ .Summary }}" property="og:description" />-->
+    {{ partial "header.html" . }}
+</head>
 <body>
 
 <header>

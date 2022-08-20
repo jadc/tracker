@@ -1,4 +1,12 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+<head>
+    <link rel='stylesheet' type='text/css' href='/single.css'>
+
+    <meta content="{{ with .Params.artists }}{{ . }} - {{ end }}{{ .Title | title }}" property="og:title" />
+    <meta content="{{ with .Params.tags }}{{ . }}. {{ end }}{{ .Summary }}" property="og:description" />
+    {{ partial "header.html" . }}
+</head>
 <body>
 
 <header>
