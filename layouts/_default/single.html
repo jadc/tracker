@@ -2,6 +2,7 @@
 <html lang="{{ .Site.Language }}">
 <head>
     {{ partial "header.html" . }}
+    <title>{{ with .Params.artists }}{{ delimit . ", " | title }} &mdash; {{ end }}{{ .Title | title }}</title>
     <link rel='stylesheet' type='text/css' href='/single.css'>
 
     <meta content="{{ with .Params.artists }}{{ delimit . ", " | title }} &mdash; {{ end }}{{ .Title | title }}" property="og:title" />
