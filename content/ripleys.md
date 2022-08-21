@@ -1,6 +1,6 @@
 ---
 title: ripleys
-aka: ["juice (og)"]
+aka: ["juice (OG)"]
 artists: ["pi'erre bourne", "playboi carti"]
 producers: ["pi'erre bourne"]
 tags: ["2017", "OG file"]
