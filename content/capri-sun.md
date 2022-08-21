@@ -1,6 +1,6 @@
 ---
 title: capri-sun
-artists: [BROCKHAMPTON]
+artists: ["BROCKHAMPTON"]
 tags: ["2019", "OG file", "open"]
 file_name: capri-sun r2.mp3 
 leaked: 2020-11-10
