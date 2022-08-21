@@ -60,6 +60,13 @@ nav > a:hover {
     flex-flow: row-reverse wrap;
 }
 
+#lastupdated {
+    text-align: center;
+    font-style: italic;
+    color: hsla(216, 7%, 40%, 1);
+    margin: 0;
+}
+
 /* moves tags below title on narrow screen sizes */
 @media only screen and (max-width: 500px){
     .page {
