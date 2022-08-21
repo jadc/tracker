@@ -1,6 +1,6 @@
 ---
 title: magic
-aka: ["poof (og)"]
+aka: ["poof (OG)"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2017", "OG file"]
