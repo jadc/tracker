@@ -2,7 +2,7 @@
 title: noon
 aka: ["backdoor", "expose 'em"]
 artists: ["young nudy", "playboi carti"]
-producers: ["blastboy"]
+producers: ["BLSSD4L"]
 tags: ["2018"]
 file_name: Nudy x Carti.m4a
 recorded: 2018-01-18
