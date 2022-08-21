@@ -14,4 +14,4 @@ mirrors: [
 "aHR0cHM6Ly9vbmx5ZmlsZXMuaW8vZi81Y2UzNzY1YmRmZGI0MTVlYWI2MzRjOGE3YWU5NjZmYQ=="
 ]
 ---
-Technically released on Guap Tarantino's SoundCloud, but was copyright reported and removed by Playboi Carti shortly after.
+Technically released on Guap Tarantino's SoundCloud, but was copyright reported and removed by Playboi Carti shortly after
