@@ -44,3 +44,10 @@ header h1 {
 .comma-list > span + span:before {
     content: ', ';
 }
+
+footer {
+    text-align: center;
+    color: hsla(216, 7%, 40%, 1);
+    margin: 1em 0;
+}
+
