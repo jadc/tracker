@@ -2,7 +2,7 @@
 title: can't pass me
 aka: ["gas him"]
 artists: ["lil uzi vert"]
-producers: ["dj plugg", "bobby kritical"]
+producers: ["DJ plugg", "bobby kritical"]
 tags: ["2017", "open"]
 file_name: Uzi_Plugg_Bobby_Kritical_Cant_Pass_Me_-_open_hook.mp3
 leaked: 2022-08-30
