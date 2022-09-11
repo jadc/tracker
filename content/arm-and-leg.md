@@ -3,7 +3,7 @@ title: arm and leg
 aka: ["that bitch"]
 artists: ["trippie redd", "playboi carti"]
 producers: ["pi'erre bourne"]
-tags: ["2019"]
+tags: ["2019", "open"]
 file_name: 01 Arm and Leg 2.3.19.mp3
 file_title: Arm and Leg 2.3.19
 recorded: 2019-02-03
