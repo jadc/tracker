@@ -1,5 +1,5 @@
 ---
-title: arm & leg
+title: arm and leg
 aka: ["that bitch"]
 artists: ["trippie redd", "playboi carti"]
 producers: ["pi'erre bourne"]
