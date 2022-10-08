@@ -1,7 +1,7 @@
 ---
 title: fetti v1
 aka: ["just left houston"]
-artists: ["playboi carti", "maxo kream", "Da$H]
+artists: ["playboi carti", "maxo kream", "Da$H"]
 producers: ["chris fresh"]
 tags: ["2015", "open"]
 file_name: Just_Left_Houston_Rough.mp3
