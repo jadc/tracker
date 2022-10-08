@@ -1,5 +1,5 @@
 ---
-title: yo pierre v1
+title: yo pierre (v1)
 artists: ["pi'erre bourne", "playboi carti"]
 producers: ["pi'erre bourne"]
 tags: ["2017"]

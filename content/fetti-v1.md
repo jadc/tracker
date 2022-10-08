@@ -1,5 +1,5 @@
 ---
-title: fetti v1
+title: fetti (v1)
 aka: ["just left houston"]
 artists: ["playboi carti", "maxo kream", "Da$H"]
 producers: ["chris fresh"]
