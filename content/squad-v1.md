@@ -1,5 +1,5 @@
 ---
-title: squad v1
+title: squad (v1)
 aka: ["firearm"]
 artists: ["playboi carti"]
 producers: ["chinatown"]

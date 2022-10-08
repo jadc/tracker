@@ -1,5 +1,5 @@
 ---
-title: buffy the body v1
+title: buffy the body (v1)
 aka: ["buffie"]
 artists: ["playboi carti"]
 producers: ["pi'erre bourne"]
@@ -14,6 +14,6 @@ mirrors: [
 "aHR0cHM6Ly9kYnJlZS5vcmcvdi8wYmI5NTk="
 ]
 ---
-Played in an Playboi Carti Instagram Live.
+Played in a Playboi Carti Instagram Live.
 
 Leaked by alx.
