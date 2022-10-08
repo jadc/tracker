@@ -15,4 +15,6 @@ mirrors: [
 "aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy94YXlQczZwYjFIL2ZpbGUuaHRtbA=="
 ]
 ---
-No beat changes like in final. Worse mix than final.
+No variation in beat like in final. Worse mix than final.
+
+Leaked by Caskets.
