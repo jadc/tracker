@@ -2,7 +2,7 @@
 title: go
 artists: ["ASAP rocky", "playboi carti"]
 producers: []
-tags: ["2021"]
+tags: ["2020"]
 file_name: ASAP ROCKY x CARTI - GO.mp3
 leaked: 2022-12-06
 length: 1:56
