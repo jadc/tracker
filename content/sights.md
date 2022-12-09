@@ -3,7 +3,7 @@ title: sights
 aka: ["our destiny", "our de$tiny"]
 artists: ["ASAP rocky", "playboi carti"]
 producers: ["EVILGIANE"]
-tags: ["2021", "OG file"]
+tags: ["2021", "OG file", "open"]
 file_name: pbc x flacko 5.2.21 2.mp3
 file_title: pbc x flacko 5.2.21 2
 recorded: 2021-05-02
