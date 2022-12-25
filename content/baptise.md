@@ -1,6 +1,6 @@
 ---
 title: baptise
-artists: ["A$AP ferg", "playboi carti"]
+artists: ["ASAP ferg", "playboi carti"]
 tags: ["2017"]
 file_name: Baptise_rough.mp3
 file_title: Baptise rough
