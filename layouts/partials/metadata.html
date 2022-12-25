@@ -1,13 +1,13 @@
 <table id='metadata'>
     {{ if isset .Params "aka" }}<tr><th>Aka.</th><td class='comma-list'>{{ range sort .Params.aka }}<span>{{ . | title }}</span>{{ end }}</td></tr>{{ end }}
     {{ if isset .Params "producers" }}<tr><th>Producer(s)</th><td class='comma-list'>{{ range sort .Params.producers }}<span>{{ . | title }}</span>{{ end }}</td></tr>{{ end }}
-    {{ with .Params.file_name }}<tr><th>File name</th><td>{{ . }}</td></tr>{{ end }}
+    {{ with .Params.file_name }}<tr><th>File name</th><td><code>{{ . }}</code></td></tr>{{ end }}
     {{ with .Params.file_title }}<tr><th>File title</th><td>{{ . }}</td></tr>{{ end }}
     {{ with .Params.file_comment }}<tr><th>File comment</th><td>{{ . }}</td></tr>{{ end }}
     {{ with .Params.recorded }}<tr><th>Recorded</th><td>{{ . | time.Format ":date_long" }}</td></tr>{{ end }}
     {{ with .Params.leaked }}<tr><th>Leaked</th><td>{{ . | time.Format ":date_long" }}</td></tr>{{ end }}
     {{ with .Params.length }}<tr><th>Length</th><td>{{ . }}</td></tr>{{ end }}
-    {{ with .Params.md5 }}<tr><th>MD5</th><td>{{ . }}</td></tr>{{ end }}
+    {{ with .Params.md5 }}<tr><th>MD5</th><td><code>{{ . }}</code></td></tr>{{ end }}
     {{ if isset .Params "mirrors" }}
     <tr>
         <th>Mirrors</th>

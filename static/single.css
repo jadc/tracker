@@ -44,3 +44,9 @@ main > p {
 .mirror::before {
     content: "🔗 "
 }
+
+code {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.9em;
+	background-color: hsla(216, 7%, 6%, 1);
+}
