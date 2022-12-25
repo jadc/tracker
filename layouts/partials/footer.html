@@ -1,6 +1,9 @@
 <footer>
     <p>Last updated: {{ dateFormat "January 2 2006 15:04:05 MST" .Lastmod.UTC }}</p>
+
+    {{ if not .IsHome }}
     <nav>
         <a href="javascript:history.back()">Back</a>
     </nav>
+    {{ end }}
 </footer>
