@@ -16,24 +16,6 @@ header {
 	background-color: hsla(216, 7%, 7%, 1);
 }
 
-nav {
-    display: flex;
-    margin-top: 1em;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-nav > a {
-	background-color: hsla(216, 7%, 12%, 1);
-    border-radius: 1.5em;
-    padding: 0.5em 1em;
-    margin: 0.5em 0.25em;
-}
-
-nav > a:hover {
-	background-color: hsla(216, 7%, 16%, 1);
-}
-
 #search {
     width: 100%;
     font-size: 1em;
