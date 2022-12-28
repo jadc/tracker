@@ -2,7 +2,7 @@
 title: can't fake it
 aka: ["outside"]
 artists: ["playboi carti"]
-producers: ["f1lthy"]
+producers: ["F1LTHY"]
 tags: ["2020"]
 file_name: Cant Fake It - addlibs.mp3
 file_title: Cant Fake It - addlibs
