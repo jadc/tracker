@@ -1,5 +1,6 @@
 ---
-title: haha
+title: daytona
+aka: ["haha"]
 artists: ["lil uzi vert"]
 producers: ["oogie man", "clibbo"]
 tags: ["2020"]
