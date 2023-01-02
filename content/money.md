@@ -2,7 +2,7 @@
 title: money
 aka: ["YSL cheetah"]
 artists: ["playboi carti"]
-producers: ["F1LTHY"]
+producers: ["F1LTHY", "starboy"]
 tags: ["2020"]
 file_name: "Money #1.mp3"
 file_title: "Money #1"
