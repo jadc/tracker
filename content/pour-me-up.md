@@ -1,6 +1,6 @@
 ---
 title: pour me up
-aka: ["can't sleep"]
+aka: ["can't sleep", "pour me up (v1)"]
 artists: ["playboi carti"]
 producers: ["d. hill"]
 tags: ["2020"]
