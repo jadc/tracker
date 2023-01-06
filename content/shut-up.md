@@ -3,7 +3,7 @@ title: shut up
 aka: ["white couch"]
 artists: ["playboi carti"]
 producers: ["digital nas"]
-tags: ["OG file"]
+tags: ["2016", "OG file"]
 file_name: Shut Up CG1.m4a
 leaked: 2022-07-23
 length: 2:13
