@@ -2,7 +2,7 @@
 title: SoCold
 artists: ["playboi carti"]
 producers: []
-tags: ["2012"]
+tags: ["2013"]
 file_name: 01 socold.mp3
 file_title: socold
 leaked: 2023-01-05
