@@ -5,7 +5,7 @@ artists: ["playboi carti"]
 producers: ["digital nas"]
 tags: ["2016"]
 file_name: CARTIER rough.mp3
-leaked: 2022-01-05
+leaked: 2023-01-05
 length: 2:13
 md5: 12eb7df688baaf64bbd9dfbfc8193b74
 mirrors: [
