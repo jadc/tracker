@@ -2,7 +2,7 @@
 title: thot back
 artists: ["lil uzi vert", "ballout"]
 producers: ["pi'erre bourne"]
-tags: ["2017"]
+tags: ["2017", "open"]
 file_name: THOUGHT BACK.mp3
 recorded: 2017-09-19
 leaked: 2023-01-09
