@@ -2,7 +2,7 @@
 title: ridin' (alt)
 aka: ["born sinner"]
 artists: ["playboi carti"]
-producers: ["F1LTHY"]
+producers: ["KP beatz", "fluxury"]
 tags: ["2020"]
 file_name: Ridin alt verse.mp3
 file_title: Ridin alt verse
