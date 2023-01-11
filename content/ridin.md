@@ -2,7 +2,7 @@
 title: ridin'
 aka: ["born sinner"]
 artists: ["playboi carti"]
-producers: ["F1LTHY"]
+producers: ["KP beatz", "fluxury"]
 tags: ["2020"]
 file_name: "Ridin #9.mp3"
 file_title: "Ridin #9"
