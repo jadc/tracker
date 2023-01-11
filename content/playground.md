@@ -1,7 +1,7 @@
 ---
 title: playground
 aka: ["james bond"]
-artists: ["lil keed", "playboi carti"]
+artists: ["playboi carti", "lil keed"]
 producers: ["TM88", "808 mafia"]
 tags: ["2020"]
 file_name: KEED_X_PLAYBOI_TM.mp3
