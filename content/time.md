@@ -1,5 +1,6 @@
 ---
 title: time
+aka: ["day 4"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2018"]
