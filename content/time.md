@@ -1,0 +1,15 @@
+---
+title: time
+artists: ["pi'erre bourne"]
+producers: ["pi'erre bourne"]
+tags: ["2018"]
+file_name: time.mp3
+leaked: 2023-01-11
+length: 2:45
+md5: 3c71fadad10baf7cc596175a7e4b1eac
+mirrors: [
+"aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy91WWVnZEk0eVRML2ZpbGUuaHRtbA==",
+"aHR0cHM6Ly9kYnJlZS5vcmcvdi9mODI1NjQ="
+]
+---
+Purchased in a group buy
