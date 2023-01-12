@@ -12,4 +12,6 @@ mirrors: [
 "aHR0cHM6Ly9kYnJlZS5vcmcvdi9mODI1NjQ="
 ]
 ---
+Scrapped from *The Life of Pi'erre 4 Deluxe* before the track *Lovers Nightmare*
+
 Purchased in a group buy
