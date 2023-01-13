@@ -13,6 +13,6 @@ mirrors: [
 "aHR0cHM6Ly9kYnJlZS5vcmcvdi9iZjgyZjY="
 ]
 ---
-Scrapped from *The Life of Pi'erre 4 Deluxe*
+Scrapped from *The Life of Pi'erre 4 Deluxe* after the scrapped track *Perfectionist*
 
 Purchased in a group buy
