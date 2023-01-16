@@ -1,7 +1,7 @@
 ---
 title: movie time
 artists: ["playboi carti"]
-producers: ["AJRuinedMyRecord"]
+producers: ["EarlOnTheBeat", "MitchGoneMad"]
 tags: ["2019", "OG file"]
 file_name: PBC X 02.12.19 x A Room x AJ 1.mp3
 file_title: PBC X 02.12.19 x A Room x AJ 1
