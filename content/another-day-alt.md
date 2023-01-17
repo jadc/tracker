@@ -1,8 +1,8 @@
 ---
 title: another day (alt)
 artists: ["playboi carti"]
-producers: ["mexikodro", "BeatPluggz"]
-tags: ["2016"]
+producers: ["MexikoDro", "BeatPluggz"]
+tags: ["2016", "OG file"]
 file_name: Carti Mexiko.mp3
 file_title: Carti Mexiko
 leaked: 2023-01-05
@@ -13,3 +13,4 @@ mirrors: [
 "aHR0cHM6Ly9kYnJlZS5vcmcvdi9lNzkyNTk="
 ]
 ---
+Solo version of LAMB$'s *Another Day*
