@@ -1,6 +1,6 @@
 ---
-title: fashion killer (v2)
-aka: ["choppa go", "choppa dump em", "fashion killa"]
+title: fashion killer
+aka: ["choppa go", "choppa dump em", "reggie (v3)"]
 artists: ["playboi carti", "key glock"]
 producers: ["pi'erre bourne"]
 tags: ["2018", "OG file"]
@@ -15,3 +15,4 @@ mirrors: [
 "aHR0cHM6Ly9kYnJlZS5vcmcvdi82MmY0OGE="
 ]
 ---
+Features a new verse near the beginning, and a feature from Key Glock
