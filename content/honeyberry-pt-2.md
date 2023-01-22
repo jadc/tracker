@@ -1,5 +1,6 @@
 ---
 title: honeyberry pt. 2
+aka: ["gatorade"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2018"]
