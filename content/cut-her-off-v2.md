@@ -2,7 +2,7 @@
 title: cut her off (v2)
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "open"]
 file_name: 16_CUT_HER_OFF_1ST_VERSE.mp3
 file_title: CUT HER OFF (1ST VERSE)
 leaked: 2023-01-22
