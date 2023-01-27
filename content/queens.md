@@ -1,5 +1,5 @@
 ---
-title: queens
+title: QUEENS
 aka: ["manning up (alt)", "how high (alt)", "growing pains (alt)"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
