@@ -2,7 +2,7 @@
 title: she might
 aka: ["redd"]
 artists: ["redd coldhearted", "playboi carti"]
-producers: ["pi'erre bourne"]
+producers: ["roark bailey"]
 tags: ["2018"]
 file_name: She Might 6.30.18.mp3
 file_title: She Might 6.30.18
