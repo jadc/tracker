@@ -1,5 +1,5 @@
 ---
-title: bills
+title: bills (v2)
 aka: ["first of the month"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
@@ -13,6 +13,6 @@ mirrors: [
 "aHR0cHM6Ly9kYnJlZS5vcmcvdi9iZjgyZjY="
 ]
 ---
-Scrapped from *The Life of Pi'erre 4 Deluxe* after the scrapped track *Perfectionist*
+This version contains a transition, hinting that it was scrapped from *The Life of Pi'erre 4 Deluxe* after the scrapped track *Perfectionist*
 
 Purchased in a group buy

@@ -1,6 +1,6 @@
 ---
-title: time
-aka: ["day 4"]
+title: day 4 (v2)
+aka: ["time"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2018"]
@@ -13,6 +13,6 @@ mirrors: [
 "aHR0cHM6Ly9kYnJlZS5vcmcvdi9mODI1NjQ="
 ]
 ---
-Scrapped from *The Life of Pi'erre 4 Deluxe* before the track *Lovers Nightmare*
+This version contains a transition, hinting that it was scrapped from *The Life of Pi'erre 4 Deluxe* before the track *Lovers Nightmare*
 
 Purchased in a group buy

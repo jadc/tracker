@@ -1,5 +1,6 @@
 ---
-title: perfectionist
+title: roses (v2)
+aka: ["perfectionist"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2018"]
@@ -12,6 +13,6 @@ mirrors: [
 "aHR0cHM6Ly9kYnJlZS5vcmcvdi8zYmY4Mzc="
 ]
 ---
-Scrapped from *The Life of Pi'erre 4 Deluxe* after the track *Simon Says*
+This version contains a transition, hinting that it was scrapped from *The Life of Pi'erre 4 Deluxe* after the track *Simon Says*
 
 Purchased in a group buy
