@@ -1,5 +1,6 @@
 ---
 title: the life of pi'erre 4 (alt)
+alt: ["eater"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2018"]
@@ -9,7 +10,9 @@ length: 55:48
 md5: 2a660ab8ff5a86d41d28c9463edb888e
 mirrors: ["aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy83dkFJQ3lWZ01FL2ZpbGUuaHRtbA==", "aHR0cHM6Ly9kYnJlZS5vcmcvdi8wNjYwOTc="]
 ---
-An early version of Pi'erre Bourne's "The Life of Pi'erre 4" with several differences, such as track order and generally rougher with the mix and transitions
+An early version of Pi'erre Bourne's "The Life of Pi'erre 4" with several differences, such as a different track order, generally rougher mix and transitions, some songs that were later released in "The Life of Pi'erre 4 Deluxe".
+
+"Eater" is a scrapped track found in this alternative version, neither in the released album nor deluxe.
 
 **Tracklist**
 1. Switchin Lanes
