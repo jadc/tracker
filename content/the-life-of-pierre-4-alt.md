@@ -1,6 +1,6 @@
 ---
 title: the life of pi'erre 4 (alt)
-alt: ["switchin' lanes (alt)", "feds (alt)", "try again (alt)", "ballad (alt)", "routine (alt)", "how high (alt)", "romeo must die (alt)", "racer (alt)", "BeBe's kids (alt)", "stereotypes (alt)", "eater", "TBH (alt)", "be mine (alt)", "guillotine (alt)"]
+alt: ["switchin' lanes (alt)", "feds (alt)", "try again (alt)", "ballad (alt)", "routine (alt)", "how high (alt)", "romeo must die (alt)", "racer (alt)", "BeBe's kids (alt)", "stereotypes (alt)", "eater", "wasted my time", "TBH (alt)", "be mine (alt)", "guillotine (alt)"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2018"]
@@ -23,7 +23,7 @@ The following is the tracklist with changes compared to release. This list is no
 8. Racer (louder ad-libs)
 9. BeBe's Kids (different beat with a guitar lead)
 10. Stereotypes
-11. **Eater (a scrapped track found only in this alternative version)**
+11. **Eater (aka. Wasted My Time, a scrapped track found only in this alternative version)**
 12. TBH (different 808 and pattern)
 13. Be Mine (no layered vocals, alternate vocal take, missing ad-libs)
 14. Guillotine (vocals mixed differently)
