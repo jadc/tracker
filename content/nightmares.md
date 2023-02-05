@@ -10,6 +10,6 @@ length: 2:51
 md5: a8762acac739f13b5017249c07f80156
 mirrors: ["aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy9KWVpXVmdWWWxVL2ZpbGUuaHRtbA==", "aHR0cHM6Ly9kYnJlZS5vcmcvdi82MDk5MjA="]
 ---
-Most likely a scrapped song from Pi'erre Bourne's first "The Life of Pi'erre" album
+Most likely a scrapped song from Pi'erre Bourne's "The Life of Pi'erre"
 
 Purchased in a group buy
