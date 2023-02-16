@@ -1,5 +1,5 @@
 ---
-title: building blocks
+title: building blocks (v1)
 aka: ["FUCK!", "trenches"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
