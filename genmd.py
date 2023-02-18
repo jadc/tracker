@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # This script is janky and only works on Linux
 
 import shutil, os, sys
