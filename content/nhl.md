@@ -1,6 +1,6 @@
 ---
 title: NHL
-aka: ["glacier"]
+aka: ["glacier", "skate away"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2020"]
