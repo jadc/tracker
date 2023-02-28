@@ -9,4 +9,4 @@ length: 9:20
 md5: 831868ac64a1a81cc3a239ed2b7d82a2
 mirrors: ["aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy9rWTY0Y1Vmd0M4L2ZpbGUuaHRtbA=="]
 ---
-Bounced by bearbricks (as accurately as possible) using leaked sessions
+Bounced by bearbricks using leaked sessions
