@@ -3,7 +3,7 @@ title: IG (alt)
 aka: ["instagram hoes", "IG hoes"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "bounced"]
 file_name: NOT_ANYMORE_ITS_TOO_MESSY1.wav
 leaked: 2023-02-28
 length: 3:20
