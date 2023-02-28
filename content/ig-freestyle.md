@@ -1,5 +1,6 @@
 ---
 title: IG (freestyle)
+aka: ["instagram hoes", "IG hoes"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2018", "bounced"]
