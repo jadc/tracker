@@ -3,7 +3,7 @@ title: money
 aka: ["YSL cheetah"]
 artists: ["playboi carti"]
 producers: ["F1LTHY", "starboy"]
-tags: ["2020"]
+tags: ["2020", "bounced"]
 file_name: "Money #1.mp3"
 file_title: "Money #1"
 leaked: 2022-12-25

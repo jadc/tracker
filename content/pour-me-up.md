@@ -3,7 +3,7 @@ title: pour me up
 aka: ["can't sleep", "pour me up (v1)"]
 artists: ["playboi carti"]
 producers: ["d. hill"]
-tags: ["2020"]
+tags: ["2020", "bounced"]
 file_name: "Pour Me Up #3_1.mp3"
 file_title: "Pour Me Up #3_1"
 leaked: 2022-05-08

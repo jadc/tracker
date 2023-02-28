@@ -3,7 +3,7 @@ title: goin' outta style
 aka: ["medusa"]
 artists: ["playboi carti"]
 producers: ["f1lthy", "lukrative"]
-tags: ["2020"]
+tags: ["2020", "bounced"]
 file_name: Playboi Carti - Medusa.mp3
 file_title: Medusa
 file_comment: 

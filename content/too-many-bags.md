@@ -3,7 +3,7 @@ title: too many bags
 aka: ["brad pitt", "groovy rubies"]
 artists: ["playboi carti"]
 producers: ["F1LTHY"]
-tags: ["2020"]
+tags: ["2020", "bounced"]
 file_name: "Too Many Bags #6_1.mp3"
 file_title: "Too Many Bags #6_1"
 leaked: 2022-12-25

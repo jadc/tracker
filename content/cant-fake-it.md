@@ -3,7 +3,7 @@ title: can't fake it
 aka: ["outside"]
 artists: ["playboi carti"]
 producers: ["F1LTHY"]
-tags: ["2020"]
+tags: ["2020", "bounced"]
 file_name: Cant Fake It - addlibs.mp3
 file_title: Cant Fake It - addlibs
 leaked: 2022-05-08

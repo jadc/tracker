@@ -3,7 +3,7 @@ title: ridin'
 aka: ["born sinner"]
 artists: ["playboi carti"]
 producers: ["KP beatz", "fluxury"]
-tags: ["2020"]
+tags: ["2020", "bounced"]
 file_name: "Ridin #9.mp3"
 file_title: "Ridin #9"
 leaked: 2022-12-25

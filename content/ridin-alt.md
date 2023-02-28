@@ -3,7 +3,7 @@ title: ridin' (alt)
 aka: ["born sinner"]
 artists: ["playboi carti"]
 producers: ["KP beatz", "fluxury"]
-tags: ["2020"]
+tags: ["2020", "bounced"]
 file_name: Ridin alt verse.mp3
 file_title: Ridin alt verse
 leaked: 2023-01-05

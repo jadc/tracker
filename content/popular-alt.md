@@ -3,7 +3,7 @@ title: popular (alt)
 aka: ["brand new"]
 artists: ["playboi carti"]
 producers: ["F1LTHY"]
-tags: ["2020"]
+tags: ["2020", "bounced"]
 file_name: Brand New.mp3
 file_title: Brand New
 leaked: 2023-01-05
