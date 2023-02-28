@@ -3,7 +3,7 @@ title: can't fake it (alt)
 aka: ["outside"]
 artists: ["playboi carti"]
 producers: ["F1LTHY"]
-tags: ["2020"]
+tags: ["2020", "bounced"]
 file_name: PBC Cant fake it alt.m4a
 leaked: 2023-01-05
 length: 0:02:34

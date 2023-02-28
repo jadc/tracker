@@ -2,7 +2,7 @@
 title: rockstar shit
 artists: ["playboi carti"]
 producers: ["d. hill"]
-tags: ["2020"]
+tags: ["2020", "bounced"]
 file_name: "PBC #2_1.mp3"
 file_title: "#2_1"
 leaked: 2022-12-25

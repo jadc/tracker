@@ -2,7 +2,7 @@
 title: popular
 artists: ["playboi carti"]
 producers: ["F1LTHY"]
-tags: ["2020"]
+tags: ["2020", "bounced"]
 file_name: "PBC Popular #7_1.mp3"
 file_title: "Popular #7_1"
 leaked: 2022-12-25

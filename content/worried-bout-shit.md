@@ -3,7 +3,7 @@ title: worried bout shit
 aka: ["stunna shit", "pull up"]
 artists: ["playboi carti"]
 producers: ["XODB"]
-tags: ["2019"]
+tags: ["2019", "bounced"]
 file_name: Carti_Worried_bout_Sht.m4a
 leaked: 2022-05-31
 length: 3:03
