@@ -3,7 +3,7 @@ title: im on my way
 aka: ["cupid", "pi'erre's revenge", "pray for me"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: Im_On_My_Way_022218.mp3
 recorded: 2018-02-22
 leaked: 2023-01-12

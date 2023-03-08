@@ -3,7 +3,7 @@ title: plan
 aka: ["niggas gon' switch"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: p9_2_niggas_gon_switch_fix.wav
 file_title: p9_2_niggas_gon_switch_fix.wav
 leaked: 2023-01-12

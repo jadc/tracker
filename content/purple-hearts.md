@@ -3,7 +3,7 @@ title: purple hearts
 aka: ["TOILET"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018", "open"]
+tags: ["2018", "open", "OG file"]
 file_name: TOILET3_050418.mp3
 file_title: TOILET3_050418
 file_comment: engiTunPGAP0

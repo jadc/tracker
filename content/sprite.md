@@ -2,7 +2,7 @@
 title: sprite
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: PierreBourneSprite.wav.m4a.mp3
 leaked: 2023-02-17
 length: 3:28

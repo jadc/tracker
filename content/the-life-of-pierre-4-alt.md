@@ -3,7 +3,7 @@ title: the life of pi'erre 4 (alt)
 alt: ["switchin' lanes (alt)", "feds (alt)", "try again (alt)", "ballad (alt)", "routine (alt)", "how high (alt)", "romeo must die (alt)", "racer (alt)", "BeBe's kids (alt)", "stereotypes (alt)", "eater", "wasted my time", "TBH (alt)", "be mine (alt)", "guillotine (alt)"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: FINAL ALBUM.wav.m4a
 leaked: 2023-02-04
 length: 55:48

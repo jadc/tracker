@@ -3,7 +3,7 @@ title: fendi dreams
 aka: ["waking up"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: fendi_dreams_2.mp3
 leaked: 2023-02-25
 length: 1:30

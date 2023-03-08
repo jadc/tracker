@@ -3,7 +3,7 @@ title: gucci slides
 aka: ["daddy's home"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: GUCCI_SLIDES.mp3
 leaked: 2023-01-17
 length: 2:40

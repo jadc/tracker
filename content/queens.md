@@ -3,7 +3,7 @@ title: QUEENS
 aka: ["manning up (alt)", "how high (alt)", "growing pains (alt)"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: QUEENS.wav.mp3
 leaked: 2023-01-26
 length: 5:41

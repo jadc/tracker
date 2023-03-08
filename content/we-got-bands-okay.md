@@ -2,7 +2,7 @@
 title: we got bands okay
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: gasss.wav.mp3
 file_title: gasss.wav
 file_comment: engiTunPGAP0
