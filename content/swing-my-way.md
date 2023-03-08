@@ -3,7 +3,7 @@ title: swing my way
 aka: ["swing", "practice (v1)"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: SWING_MY_WAY_NO_VERSE.wav.m4a 2.mp3
 leaked: 2023-02-28
 length: 2:54

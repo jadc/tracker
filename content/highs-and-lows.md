@@ -3,7 +3,7 @@ title: highs and lows
 aka: ["blank"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: BLANK.mp3
 file_title: BLANK
 leaked: 2023-01-17

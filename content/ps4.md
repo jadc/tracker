@@ -3,7 +3,7 @@ title: PS4
 aka: ["playstation", "4U (v1)"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: PS4.wav_1.mp3
 leaked: 2023-02-13
 length: 2:56

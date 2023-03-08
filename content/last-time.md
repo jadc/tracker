@@ -2,7 +2,7 @@
 title: last time
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: chip8_sample_LAST_TIME_140_2_FINAL.wav_1.m4a.mp3
 leaked: 2023-02-13
 length: 2:25
