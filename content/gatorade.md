@@ -1,6 +1,6 @@
 ---
 title: gatorade
-aka: ["honeyberry pt. 2"]
+aka: ["honeyberry 2 (v1)"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2018", "OG file"]
@@ -10,3 +10,4 @@ length: 1:15
 md5: a2c5673b536ca08fb88fb73956df1b93
 mirrors: ["aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy9Ga1BSUndGcno1L2ZpbGUuaHRtbA==", "aHR0cHM6Ly9kYnJlZS5vcmcvdi81MzYzZDY="]
 ---
+An extra verse and worse mixing compared to released
