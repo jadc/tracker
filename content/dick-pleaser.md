@@ -13,4 +13,4 @@ Freestyle on the same beat as Lil Wayne's "Dick Pleaser"
 
 Allegedly "meant to be posted instead of over when he was doing posts for wlr"
 
-Purchased in a group buy as a video
+Video purchased in a group buy for $4,040 USD
