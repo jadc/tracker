@@ -1,6 +1,6 @@
 ---
-title: bring yo friends
-aka: ["rover", "dope in the rover", "rover sport"]
+title: ROVER SPORT
+aka: ["rover", "dope in the rover", "bring yo friends"]
 artists: ["playboi carti"]
 producers: ["lil 88"]
 tags: ["2020"]
@@ -15,3 +15,4 @@ mirrors: [
 "aHR0cHM6Ly9vbmx5ZmlsZXMuaW8vZi9kN2FkNzBjNDJiOTQ0ZDE3OTg2ZjI4YWQ1Yzk4YzNmYQ=="
 ]
 ---
+Original song title is "ROVER SPORT"
