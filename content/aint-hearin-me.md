@@ -3,7 +3,7 @@ title: ain't hearin' me
 aka: ["DASH"]
 artists: ["southside", "pi'erre bourne"]
 producers: ["southside", "pi'erre bourne"]
-tags: ["2018"]
+tags: ["2017"]
 file_name: southside_pierre_aint_hearin_me.mp3
 leaked: 2023-03-31
 length: 2:18
