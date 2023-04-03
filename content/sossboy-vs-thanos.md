@@ -1,9 +1,9 @@
 ---
-title: sossboy vs thanos
+title: sossboy vs. thanos
 aka: ["romeo must die (v1)"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: sossboy_vs_thanos.wav.m4a
 leaked: 2023-03-31
 length: 2:27
