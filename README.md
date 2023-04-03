@@ -1,7 +1,7 @@
 # Tracker
 Repository of information regarding unreleased music files.
 
-Visit [the website](http://leak.info.gf/) to view the contents.
+Visit [the website](https://vault.jad.red/) to view the contents.
 
 ## What to contribute
 This tracker is for CD-quality leaks only. The following are outside the scope of this tracker and will be rejected.
