@@ -1,6 +1,6 @@
 ---
 title: surprise
-aka: ["grammy"]
+aka: ["surprised", "grammy"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2021", "OG file"]
@@ -10,4 +10,4 @@ length: 1:36
 md5: 6d7b4d210fdf8213caef5edb32945dfa
 mirrors: ["aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy9qWkZEdkZ3MEQ2L2ZpbGUuaHRtbA==", "aHR0cHM6Ly9kYnJlZS5vcmcvdi85ZDk1NWM="]
 ---
-Leaked by Caskets (accidentally, while making a snippet)
+Leaked by Caskets (accidentally, while making a snippet of it)
