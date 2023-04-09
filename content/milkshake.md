@@ -2,7 +2,7 @@
 title: milkshake
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018"]
+tags: ["2018", "OG file"]
 file_name: sossboy29.wav_3.mp3
 leaked: 2023-04-07
 length: 1:22
