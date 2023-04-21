@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# This script is janky and only works on Linux
 
 import shutil, os, sys
 from slugify import slugify
@@ -68,7 +67,7 @@ if __name__ == '__main__':
         if(file_meta.comment): f.write('file_comment: ' + file_meta.comment + '\n')
         f.write('recorded: ' + '\n')
         f.write('leaked: ' + datetime.today().strftime('%Y-%m-%d') + '\n')
-        f.write('length: ' + time.strftime('%-M:%S', time.gmtime(file_meta.duration)) + '\n')
+        f.write('length: ' + time.strftime('%M:%S', time.gmtime(file_meta.duration)) + '\n')
         f.write('md5: ' + file_hash.hexdigest() + '\n')
         try:
             f.write('mirrors: ' + list_to_str( [base64.b64encode(bytes(x, 'utf-8')).decode('utf-8') for x in mirrors] ) + '\n')
