@@ -9,6 +9,6 @@ length: 1:27
 md5: d7e4918764eb98ba13be8c8784219b99
 mirrors: ["aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy9xNVlpdVdwVndVL2ZpbGUuaHRtbA==", "aHR0cHM6Ly9kYnJlZS5vcmcvdi81ZjNiZmY="]
 ---
-Transitions from Emotional
+Transitions from Pi'erre Bourne "Emotional", scrapped from TLOP4 Deluxe
 
 Purchased in a group buy for $1500 USD

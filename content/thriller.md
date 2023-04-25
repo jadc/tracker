@@ -3,7 +3,7 @@ title: thriller
 aka: ["micheal jackson"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018", "OG file"]
+tags: ["2017", "OG file"]
 file_name: mj_rip.mp3
 file_title: mj rip
 file_comment: engiTunPGAP0
