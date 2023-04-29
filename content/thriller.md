@@ -1,6 +1,6 @@
 ---
-title: thriller
-aka: ["micheal jackson"]
+title: micheal jackson
+aka: ["thriller"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2017"]
