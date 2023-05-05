@@ -1,5 +1,6 @@
 ---
-title: bankroll
+title: bankfold
+aka: ["bankroll"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2017"]
