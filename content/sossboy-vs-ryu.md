@@ -1,5 +1,5 @@
 ---
-title: sossboy vs ryu
+title: sossboy vs. ryu
 aka: ["relay"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
