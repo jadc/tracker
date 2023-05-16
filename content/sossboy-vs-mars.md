@@ -1,5 +1,5 @@
 ---
-title: sossboy vs mars
+title: sossboy vs. mars
 aka: ["true"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]

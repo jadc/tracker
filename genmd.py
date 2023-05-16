@@ -38,6 +38,7 @@ if __name__ == '__main__':
 
     # metadata population
     file_meta = TinyTag.get(file)
+    print('File metadata', file_meta)
     artists = set()
     prod = set()
     if(file_meta.artist): artists.add(file_meta.artist.lower())

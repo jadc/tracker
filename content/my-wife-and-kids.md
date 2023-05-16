@@ -1,5 +1,5 @@
 ---
-title: MY WIFE AND KIDS
+title: MY WIFE & KIDS
 aka: ["shots"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
