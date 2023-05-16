@@ -5,6 +5,7 @@ artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2019", "OG file"]
 file_name: ice_cream.wav.m4a
+recorded: 2019-12-18
 leaked: 2023-05-15
 length: 3:01
 md5: a9b95488ff31a442c255bc51f5c3476b

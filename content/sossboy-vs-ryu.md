@@ -5,6 +5,7 @@ artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2018", "OG file"]
 file_name: sossboy_vs_ryu.wav.m4a
+recorded: 2018-07-02
 leaked: 2023-05-15
 length: 1:28
 md5: 9b6d0b18e935eed9594c7874de997ef0

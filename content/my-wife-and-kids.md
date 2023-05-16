@@ -1,10 +1,11 @@
 ---
 title: MY WIFE AND KIDS
-aka: ["shot"]
+aka: ["shots"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2019", "OG file"]
 file_name: MY_WIFE_AND_KIDS.wav_4_1.mp3
+recorded: 2019-02-05
 leaked: 2023-05-15
 length: 0:57
 md5: d4693ece462de2a54503deaabe7c6198
