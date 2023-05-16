@@ -3,7 +3,7 @@ title: SHOW N TELL
 aka: ["show and tell"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
-tags: ["2018", "OG file"]
+tags: ["2017", "OG file"]
 file_name: show_and_tell.mp3
 file_title: show and tell
 file_comment: engiTunPGAP0
