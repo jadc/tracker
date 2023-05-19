@@ -1,5 +1,6 @@
 ---
-title: 24 songs
+title: made it this far
+aka: ["24 songs", "we made it"]
 artists: ["playboi carti", "vory"]
 producers: ["digital nas"]
 tags: ["2021"]
