@@ -1,9 +1,9 @@
 ---
-title: sellin' white
+title: sellin' white (v2)
 aka: ["sit on top"]
 artists: ["playboi carti"]
 producers: ["pi'erre bourne"]
-tags: ["2017", "OG file"]
+tags: ["2017"]
 file_name: 01 Sellin' White Prod. Pierre Bourne.mp3
 file_title: Sellin' White Prod. Pierre Bourne
 leaked: 2022-05-26
