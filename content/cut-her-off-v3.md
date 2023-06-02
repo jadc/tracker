@@ -3,12 +3,14 @@ title: cut her off (v3)
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
 tags: ["2018", "OG file"]
-file_name: chip1_153_3_CUT_HER_OFF_TLOP4_final.wav.m4a
-leaked: 2023-04-02
-length: 2:47
-md5: ece9851ac16318c158c98b34364dc01b
-mirrors: ["aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy9IODhFVVdUaXpwL2ZpbGUuaHRtbA==", "aHR0cHM6Ly9kYnJlZS5vcmcvdi8yN2Q5ODk="]
+file_name: 01_CUT_HER_OFF__022218.mp3
+file_title: CUT HER OFF _022218
+recorded: 2018-02-22
+leaked: 2023-06-02
+length: 4:11
+md5: 637ebca3519170543de607a8e553bb6a
+mirrors: ["aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy84QlFVVEZVVnVmL2ZpbGUuaHRtbA==", "aHR0cHM6Ly9kYnJlZS5vcmcvdi82NDY0Nzk="]
 ---
-Final version with a different beat and verses
+Very similar to version 1, except one different verse
 
-Leaked by Caskets
+Bonus in a group buy
