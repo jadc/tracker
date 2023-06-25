@@ -32,6 +32,7 @@ if __name__ == '__main__':
             else: break
 
         print('Downloading from', mirrors[0])
+        print(mirrors)
         kraken = Kraken()
         file = kraken.download_file(mirrors[0], file_dir)
         print('Downloaded', file)
