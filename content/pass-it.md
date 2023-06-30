@@ -1,6 +1,6 @@
 ---
-title: rich ass bastard
-aka: ["pass it", "ask me", "patience"]
+title: pass it
+aka: ["rich ass bastard", "ask me", "patience"]
 artists: ["lil uzi vert", "playboi carti"]
 producers: ["brandon finessin"]
 tags: ["2020"]
