@@ -1,6 +1,6 @@
 ---
 title: rich ass bastard
-aka: ["ask me", "patience"]
+aka: ["pass it", "ask me", "patience"]
 artists: ["lil uzi vert", "playboi carti"]
 producers: ["brandon finessin"]
 tags: ["2020"]
@@ -12,6 +12,8 @@ length: 2:44
 md5: adbd0385e0133e8efa6472c749768fd2
 mirrors: ["aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy8xYmZLcWNMYlg0L2ZpbGUuaHRtbA==", "aHR0cHM6Ly9kYnJlZS5vcmcvdi80OWU1ZTI="]
 ---
-Accidentally [posted on LIL UZI VERT's YouTube](https://www.youtube.com/watch?v=9gXKUucA4g4) instead of "Patience (feat. Don Toliver)" from Pink Tape.
+Allegedly privately purchased for $15,000 USD, King Bob previewed the track on February 25, 2023 on Instagram
 
-TODO: Recorded in April 2020, exact date unknown
+On the release of Lil Uzi Vert's "Pink Tape", the track was accidentally [posted on LIL UZI VERT's YouTube](https://www.youtube.com/watch?v=9gXKUucA4g4) instead of "Patience (feat. Don Toliver)"
+
+*TODO: Recorded in April 2020, exact date unknown*
