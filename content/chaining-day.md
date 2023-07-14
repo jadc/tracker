@@ -2,7 +2,7 @@
 title: chaining day (v1)
 artists: ["pi'erre bourne"]
 producers: ["cardo"]
-tags: ["2023", "OG file"]
+tags: ["2020", "OG file"]
 file_name: chaining_day.wav
 leaked: 2023-07-13
 length: 2:10
