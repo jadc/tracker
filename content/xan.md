@@ -4,6 +4,7 @@ artists: ["playboi carti"]
 producers: ["pi'erre bourne"]
 tags: ["2019", "OG file"]
 file_name: carti_means_1.wav.m4a
+recorded: 2019-05-10
 leaked: 2023-05-05
 length: 3:23
 md5: 1bb0a2f1e367d79d9871816ceeb58a2c
