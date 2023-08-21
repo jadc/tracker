@@ -3,6 +3,9 @@ title = 'Tracker'
 baseURL = 'http://leak.info.gf/'
 enableGitInfo = true
 
+[frontmatter]
+  lastmod = ['lastmod', ':git', ':fileModTime', ':default']
+
 [params]
   favicon = '/icon.svg'
 
