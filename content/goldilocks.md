@@ -3,7 +3,7 @@ title: GOLDILOCKS
 aka: ["wish me well"]
 artists: ["pi'erre bourne"]
 producers: ["cardo"]
-tags: ["2019"]
+tags: ["2019", "OG file"]
 file_name: GOLDILOCKS CARDO.mp3
 leaked: 2023-08-27
 length: 1:48
