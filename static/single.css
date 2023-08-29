@@ -1,9 +1,19 @@
-header {
-    margin-top: 1.75em;
-}
+.song-header {
+    text-align: center;
+    margin: auto;
+    margin-top: 1.5rem;
 
-header > h1 {
-    margin-bottom: 0.5em;
+    > h1 {
+        margin: 0;
+    }
+
+    .comma-list {
+        margin: 0.5em;
+    }
+
+    .tags {
+        margin: 1rem;
+    }
 }
 
 main {

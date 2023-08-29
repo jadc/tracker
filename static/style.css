@@ -24,14 +24,6 @@ a {
     color: white;
 }
 
-header {
-    text-align: center;
-}
-
-header h1 {
-    margin: 0;
-}
-
 .tags > span {
     border: 1px solid hsla(216, 7%, 22%, 1);
     color: hsla(216, 7%, 50%, 1);
@@ -45,27 +37,45 @@ header h1 {
     content: ', ';
 }
 
-footer {
+.info {
     text-align: center;
     color: hsla(216, 7%, 40%, 1);
-    margin: 1em 0;
+}
+
+header {
+    text-align: center;
+
+    #icon {
+        display: block;
+        background-image: url('icons/icon.svg');
+        width: 2.5rem;
+    }
 }
 
 nav {
     display: flex;
-    margin-top: 1em;
+    margin: 1em;
+    margin-bottom: 0;
     flex-wrap: wrap;
-    justify-content: center;
-}
+    align-items: center;
+    gap: .5rem;
 
-nav > a {
-	background-color: hsla(216, 7%, 12%, 1);
-    border-radius: 1.5em;
-    padding: 0.5em 1em;
-    margin: 0.5em 0.25em;
-}
+    > a {
+        display: flex;
+        align-items: center;
 
-nav > a:hover {
-	background-color: hsla(216, 7%, 16%, 1);
+        background-color: hsla(216, 7%, 12%, 1);
+        border-radius: 1.5em;
+        padding: 0.5rem 0.9rem;
+    }
+    > a:hover {
+        background-color: hsla(216, 7%, 16%, 1);
+    }
+    > a > img {
+        display: inline-block;
+        content: '';
+        aspect-ratio: 1/1;
+        width: 1rem;
+        margin-right: .5rem;
+    }
 }
-
