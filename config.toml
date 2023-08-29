@@ -1,6 +1,5 @@
 languageCode = 'en-us'
 title = 'Tracker'
-baseURL = 'http://leak.info.gf/'
 enableGitInfo = true
 
 [frontmatter]
