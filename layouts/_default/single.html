@@ -1,26 +1,25 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language }}">
-<head>
-    {{ partial "header.html" . }}
-    <title>{{ with .Params.artists }}{{ delimit . ", " | title }} &mdash; {{ end }}{{ .Title | title }}</title>
-    <link rel='stylesheet' type='text/css' href='/single.css'>
+    <head>
+        {{ partial "header.html" . }}
+        <title>{{ with .Params.artists }}{{ delimit . ", " | title }} &mdash; {{ end }}{{ .Title | title }}</title>
+        <link rel='stylesheet' type='text/css' href='/single.css'>
 
-    <meta content="{{ with .Params.artists }}{{ delimit . ", " | title }} &mdash; {{ end }}{{ .Title | title }}" property="og:title" />
-    <meta content="{{ with .Params.tags }}{{ delimit . ", " | title }}. {{ end }}{{ with .Params.aka }}Also known as {{ delimit . ", " | title }}. {{ end }}{{ .Summary | truncate 200 }}" property="og:description" />
-</head>
-<body>
-    {{ partial "nav.html" . }}
-<div class='song-header'>
-    <div class='comma-list'>{{ range.Params.artists }}<span>{{ . | title }}</span>{{ end }}</div>
-    <h1>{{ .Title | title }}</h1>
-    {{ partial "taglist.html" . }}
-</div>
-<main>
-{{ .Content }}
-{{ partial "metadata.html" . }}
-</main>
-<script src='/single.js'></script>
-
-{{ partial "footer.html" . }}
-</body>
+        <meta content="{{ with .Params.artists }}{{ delimit . ", " | title }} &mdash; {{ end }}{{ .Title | title }}" property="og:title" />
+        <meta content="{{ with .Params.tags }}{{ delimit . ", " | title }}. {{ end }}{{ with .Params.aka }}Also known as {{ delimit . ", " | title }}. {{ end }}{{ .Summary | truncate 200 }}" property="og:description" />
+    </head>
+    <body>
+        {{ partial "nav.html" . }}
+        <div class='song-header'>
+            <div class='comma-list'>{{ range.Params.artists }}<span>{{ . | title }}</span>{{ end }}</div>
+            <h1>{{ .Title | title }}</h1>
+            {{ partial "taglist.html" . }}
+        </div>
+        <main>
+        {{ .Content }}
+        {{ partial "metadata.html" . }}
+        </main>
+        <script src='/single.js'></script>
+        {{ partial "footer.html" . }}
+    </body>
 </html>

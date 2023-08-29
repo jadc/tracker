@@ -1,42 +1,39 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language }}">
-<head>
-    {{ partial "header.html" . }}
-    <title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
-	<link rel='stylesheet' type='text/css' href='/list.css'>
-    <meta content="{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}" property="og:title" />
-    <!--<meta content="{{ .Summary }}" property="og:description" />-->
-</head>
-<body>
-    {{ partial "nav.html" . }}
-<main>
-    <div id="search">
-        <input type='text' placeholder='Search song name or tags, e.g. 2018 og file...' spellcheck='false' autocomplete='off'>
-    </div>
+    <head>
+        {{ partial "header.html" . }}
+        <title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
+        <link rel='stylesheet' type='text/css' href='/list.css'>
+        <meta content="{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}" property="og:title" />
+        <!--<meta content="{{ .Summary }}" property="og:description" />-->
+    </head>
+    <body>
+        {{ partial "nav.html" . }}
+        <main>
+            <div id="search">
+                <input type='text' placeholder='Search song name or tags, e.g. 2018 og file...' spellcheck='false' autocomplete='off'>
+            </div>
 
-    {{ if not .IsHome }}
-    <p class='info'>Only showing <b>{{ .Title | title }}</b> results</p>
-    {{ end }}
+            {{ if not .IsHome }}
+            <p class='info'>Only showing <b>{{ .Title | title }}</b> results</p>
+            {{ end }}
 
-    {{ with .Pages }}
-        {{ range sort . ".Params.leaked" "desc" }}
-        <a class='page' href="{{ .RelPermalink }}" data-artists='{{ .Params.artists }}{{ .Params.producers }}' data-tags='{{ .Params.aka }}{{ .Params.tags }}' {{ if gt (len .Summary) 0 }} title='{{ .Summary | truncate 200 }}' {{ end }}>
-                <div class='title'>
-                    {{ with .Params.artists }}
-                        <div class='comma-list'>{{ range . }}<span>{{ . | title }}</span>{{ end }}</div>
-                    {{ end }}
+            {{ with .Pages }}
+                {{ range sort . ".Params.leaked" "desc" }}
+                <a class='page' href="{{ .RelPermalink }}" data-artists='{{ .Params.artists }}{{ .Params.producers }}' data-tags='{{ .Params.aka }}{{ .Params.tags }}' {{ if gt (len .Summary) 0 }} title='{{ .Summary | truncate 200 }}' {{ end }}>
+                        <div class='title'>
+                            {{ with .Params.artists }}
+                                <div class='comma-list'>{{ range . }}<span>{{ . | title }}</span>{{ end }}</div>
+                            {{ end }}
 
-                    <h1>{{ .Title | title }}</h1>
-                </div>
-                {{ partial "taglist.html" . }}
-            </a>
-        {{ end }}
-    {{ end }}
-</main>
-
-<script src='/search.js'></script>
-
-{{ partial "footer.html" . }}
-
-</body>
+                            <h1>{{ .Title | title }}</h1>
+                        </div>
+                        {{ partial "taglist.html" . }}
+                    </a>
+                {{ end }}
+            {{ end }}
+        </main>
+    <script src='/search.js'></script>
+    {{ partial "footer.html" . }}
+    </body>
 </html>
