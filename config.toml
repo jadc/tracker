@@ -6,7 +6,7 @@ enableGitInfo = true
   lastmod = ['lastmod', ':fileModTime', ':git', ':default']
 
 [params]
-  favicon = '/icon.svg'
+  favicon = '/icons/icon.svg'
 
 [taxonomies]
   artist = 'artists'

@@ -8,16 +8,16 @@
     <!--<meta content="{{ .Summary }}" property="og:description" />-->
 </head>
 <body>
-
-<header>
-    {{ if not .IsHome }}
-        <h1>{{ .Title | title }} Tracker</h1>
-    {{ else }}
-        <h1>&#128279;</h1>
-    {{ end }}
     {{ partial "nav.html" . }}
-</header>
 <main>
+    <div id="search">
+        <input type='text' placeholder='Search song name or tags, e.g. 2018 og file...' spellcheck='false' autocomplete='off'>
+    </div>
+
+    {{ if not .IsHome }}
+    <p class='info'>Only showing <b>{{ .Title | title }}</b> results</p>
+    {{ end }}
+
     {{ with .Pages }}
         {{ range sort . ".Params.leaked" "desc" }}
         <a class='page' href="{{ .RelPermalink }}" data-artists='{{ .Params.artists }}{{ .Params.producers }}' data-tags='{{ .Params.aka }}{{ .Params.tags }}' {{ if gt (len .Summary) 0 }} title='{{ .Summary | truncate 200 }}' {{ end }}>
