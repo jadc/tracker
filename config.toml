@@ -4,7 +4,7 @@ baseURL = 'http://leak.info.gf/'
 enableGitInfo = true
 
 [frontmatter]
-  lastmod = ['lastmod', ':git', ':fileModTime', ':default']
+  lastmod = ['lastmod', ':fileModTime', ':git', ':default']
 
 [params]
   favicon = '/icon.svg'
