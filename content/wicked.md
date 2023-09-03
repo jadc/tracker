@@ -1,6 +1,6 @@
 ---
-title: Wicked
-aka: ["Killers"]
+title: wicked
+aka: ["killers", "pockets"]
 artists: ["playboi carti"]
 producers: ["cardo"]
 tags: ["2022"]
