@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const pages = document.querySelectorAll('a.page');
-    const search = document.getElementById('search');
+    const search = document.getElementById('search').firstElementChild;
 
     search.addEventListener('input', () => {
         const query = clean(search.value).split(' ');
