@@ -1,5 +1,5 @@
 ---
-title: mr. miyagi
+title: mr. miyagi (v2)
 artists: ["kanye west", "future", "playboi carti"]
 producers: ["kanye west", "ayoAA", "mike dean"]
 tags: ["2022"]
@@ -12,4 +12,4 @@ mirrors: [
 "aHR0cHM6Ly9kYnJlZS5vcmcvdi8zNjM4MmU="
 ]
 ---
-Originally track 6 on Kanye West's *Donda 2*
+Censored. Originally track 6 on Kanye West's *Donda 2*
