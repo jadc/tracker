@@ -1,8 +1,8 @@
 ---
 title: vetements jeans
 aka: ["justin bieber"]
-artists: ["playboi carti", "pi'erre bourne"]
-producers: ["maaly raw"]
+artists: ["lil uzi vert", "playboi carti"]
+producers: ["maaly raw", "ambezza", "outofair"]
 tags: ["2021"]
 file_name: justin_bieber.mp3
 file_title: 09 Vetements Jeans (feat. Pla
