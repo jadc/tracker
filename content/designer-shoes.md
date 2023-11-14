@@ -1,6 +1,6 @@
 ---
 title: designer shoes
-aka: ["brand new (v2)"]
+aka: ["brand new"]
 artists: ["playboi carti"]
 producers: ["chinatown"]
 tags: ["2019", "OG file"]
