@@ -1,7 +1,7 @@
 ---
 title: flex (v1)
 artists: ["playboi carti", "leven kali"]
-producers: ["j. cash", "KasimGotJuice]
+producers: ["j. cash", "KasimGotJuice"]
 tags: ["2017"]
 file_name: Playboi Carti feat. Leven Kali - Flex (Lost Version).mp3
 leaked: 2024-01-06
