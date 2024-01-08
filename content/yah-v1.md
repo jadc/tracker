@@ -3,7 +3,7 @@ title: yah (v1)
 aka: ["call up the troops"]
 artists: ["playboi carti"]
 producers: ["digital nas"]
-tags: ["2017", "OG file", "open"]
+tags: ["2016", "OG file", "open"]
 file_name: Playboi Carti Yahh rough mix kk.mp3
 leaked: 2022-05-26
 length: 2:49

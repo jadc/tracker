@@ -3,7 +3,7 @@ title: yah (v2)
 aka: ["call up the troops"]
 artists: ["playboi carti", "offset"]
 producers: ["digital nas"]
-tags: ["2017"]
+tags: ["2016"]
 file_name: Carti_Yah_new_hook_2_20_.mp3
 leaked: 2022-10-07
 length: 2:49
@@ -14,4 +14,4 @@ mirrors: [
 "aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy9pRXBlV2E0eDl4L2ZpbGUuaHRtbA=="
 ]
 ---
-Open verse filled by Offset and a few new lines from Playboi Carti.
+Open verse filled by Offset, and a few new lines from Playboi Carti
