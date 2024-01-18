@@ -4,7 +4,7 @@ import shutil, os, sys
 from slugify import slugify
 import base64
 import subprocess
-from pykraken.kraken import Kraken
+#from pykraken.kraken import Kraken
 from tinytag import TinyTag
 import hashlib
 from datetime import datetime
@@ -22,20 +22,20 @@ if __name__ == '__main__':
 
     if( len(sys.argv) == 2 ):
         file = sys.argv[1]
-    else:
-        print('Input mirror links, enter after each one. [KrakenFiles first]')
+    #else:
+    #    print('Input mirror links, enter after each one. [KrakenFiles first]')
 
-        mirrors = []
-        while True:
-            inp = input('=> ')
-            if(inp): mirrors.append(inp)
-            else: break
+    #    mirrors = []
+    #   while True:
+    #       inp = input('=> ')
+    #       if(inp): mirrors.append(inp)
+    #       else: break
 
-        print('Downloading from', mirrors[0])
-        print(mirrors)
-        kraken = Kraken()
-        file = kraken.download_file(mirrors[0], file_dir)
-        print('Downloaded', file)
+    #   print('Downloading from', mirrors[0])
+    #   print(mirrors)
+    #   kraken = Kraken()
+    #   file = kraken.download_file(mirrors[0], file_dir)
+    #   print('Downloaded', file)
 
     # metadata population
     file_meta = TinyTag.get(file)
