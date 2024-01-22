@@ -1,5 +1,5 @@
 ---
-title: chicken waffles
+title: chicken and waffles
 aka: ["2 bands", "plain jane"]
 artists: ["pi'erre bourne"]
 producers: ["pi'erre bourne"]
