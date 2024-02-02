@@ -1,6 +1,5 @@
 ---
-title: goin' outta style
-aka: ["medusa"]
+title: medusa
 artists: ["playboi carti"]
 producers: ["f1lthy", "lukrative"]
 tags: ["2020", "bounced"]
