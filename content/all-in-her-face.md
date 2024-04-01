@@ -10,4 +10,3 @@ length: 2:53
 md5: 427f811dd9c3dfe1799f2c3134588e2e
 mirrors: ["aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy9QVXFvMFhabEVoL2ZpbGUuaHRtbA==", "aHR0cHM6Ly9kYnJlZS5vcmcvdi85NzY1NDI="]
 ---
-Surfaced during its group buy for $1000 USD

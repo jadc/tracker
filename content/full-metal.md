@@ -10,3 +10,5 @@ md5: 00431883065e9a044a4f508ceca9f197
 mirrors: ["aHR0cHM6Ly9rcmFrZW5maWxlcy5jb20vdmlldy9Ka1p3ejI4UUU4L2ZpbGUuaHRtbA==", "aHR0cHM6Ly9kYnJlZS5vcmcvdi80ZjBjYjA="]
 ---
 Purchased in a group buy for $1000 USD
+
+Unleaked OG file name is "Cardi idea 1"
