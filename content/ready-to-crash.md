@@ -1,6 +1,7 @@
 ---
 title: ready to crash
 artists: ["homixide gang", "playboi carti"]
+producers: ["artist"]
 tags: ["2022"]
 file_name: 52522_HOMIXIDE_X_PBC_TWO.mp3
 leaked: 2024-04-16
@@ -16,3 +17,5 @@ mirrors: [
 MUSIC (v1) Era
 
 Purchased in a blind group buy for $3500 USD
+
+Instrumental is a type beat found on YouTube, called ["[SOLD] Playboi Carti x Destroy Lonely Type Beat "black ahh" prod. artist"](https://www.youtube.com/watch?v=oq_dDVYt4zc), uploaded by [artist](https://www.youtube.com/@artist6600) on March 15, 2022.
