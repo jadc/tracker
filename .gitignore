@@ -2,3 +2,12 @@
 /resources/_gen/
 /.hugo_build.lock
 /songs/
+
+# Do not include copyrighted files
+*.mp3
+*.m4a
+*.wav
+*.flac
+*.ogg
+*.mov
+*.mp4
